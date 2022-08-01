@@ -1,0 +1,386 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+
+
+::-webkit-scrollbar{
+  width: 10px;
+  position: absolute;
+  background-color: #000;
+}
+::-webkit-scrollbar-thumb{
+  background-color: rgb(88, 97, 131);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  padding: 0 60px;
+  margin: 0 auto;
+}
+
+.section-container {
+  padding: 0 60px;
+  margin: 0 auto;
+}
+
+hr {
+  width: 100%;
+}
+.navbar ~ hr{
+  margin-top: 30px;
+}
+
+.wrapper {
+  width: auto;
+  height: max-content;
+}
+
+.header {
+  width: 100%;
+  height: 400px;
+  background-color: rgb(23, 22, 28);
+  display: flex;
+  align-items: flex-start;
+  padding-top: 50px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.navbar .nav-item {
+  display: flex;
+
+}
+
+.navbar .nav-item .nav-link {
+  padding: 3px 4px;
+  margin-left: 40px;
+}
+
+.section {
+  position: relative;
+  width: 100%;
+
+}
+
+.my-info .my-img img {
+  width: 250px;
+}
+
+.main-section {
+  margin-top: -300px;
+}
+
+.my-info {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-around;
+  white-space: nowrap;
+}
+
+.my-info .my-name h1 {
+  font-size: 85px;
+  color: #FE805D;
+}
+
+.my-info .my-name h6 {
+  font-size: 23px;
+  font-weight: 200;
+}
+
+.bg-img {
+  margin-top: 200px;
+  width: 100%;
+  height: 1002px;
+
+  position: absolute;
+  background-image: url('https://static.wixstatic.com/media/ad420a_0966fded081b4a12988a616e305424d1~mv2.jpg/v1/fill/w_1068,h_1002,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ad420a_0966fded081b4a12988a616e305424d1~mv2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+.bg-img .bg-img_items {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.65);
+  width: 100%;
+  height: 1002px;
+  z-index: -9999;
+}
+
+
+
+.release-card {
+  width: 70%;
+  margin: 100px auto;
+  display: flex;
+
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(5px);
+  padding: 20px;
+}
+
+.card-info h3 {
+  margin-bottom: 50px;
+
+}
+
+
+.card-img .img-box img {
+  width: fit-content
+}
+
+.release-mark {
+  position: relative;
+  margin-left: -20px;
+}
+
+.release-mark svg {
+  height: 50px;
+}
+
+
+.release-mark span {
+  position: absolute;
+  left: 40px;
+  top: 15px;
+}
+
+.card-info h1 {
+  margin-top: -20px;
+  font-size: 45px;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+}
+
+.card-info p {
+  margin-top: 30px;
+  padding-right: 160px;
+  word-spacing: 2px;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-info h4 {
+  margin-top: 20px;
+  font-size: 23px;
+  font-weight: 200;
+}
+.card-info .more-info{
+  margin: 30px 0;
+}
+
+.card-info .more-info a{
+  margin-right: 60px;
+  padding: 10px 20px;
+}
+.link{
+  border: 1px solid #FE805D;
+  border-radius: 50px;
+  font-size: 17px;
+  color: #FE805D;
+}
+
+.reviews-section{
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(31, 34, 47);
+  padding: 50px 100px 0 100px ;
+  
+}
+
+.reviews-section .reviews-title{
+  font-size: 45px;
+  font-weight: 400;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+  color: #FE805D;
+}
+.reviews-box{
+  display: flex;
+  justify-content: center;
+
+  margin-top: 70px;
+}
+.quote-icon{
+  text-align: center;
+}
+.quote-icon svg{
+  width: 50px;
+  height: 50px;
+  fill: #FE805D;
+}
+.reviews-text p:first-child{
+  padding: 0 30px;
+  word-spacing: 2px;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 30px;
+}
+.reviews-text p:nth-child(2){
+  padding: 30px 120px 0 120px;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 300;
+  color: #FE805D;
+}
+.reviews-text hr{
+  margin: 30px 150px 0 150px;
+  width: auto;
+  height: 0.8px;
+  border: none;
+  background-color: rgb(121, 121, 121);
+}
+
+
+
+.appearances-section{
+  background-color: rgb(23, 22, 28);
+  height: auto;
+}
+
+.appearances-item{
+  padding-top: 100px;
+}
+
+
+.appearances-header{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.appearances-header h2{
+  font-size: 45px;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 300;
+  color: #FE805D;
+}
+.appearances-header p{
+  font-size: 17px;
+  width: 250px;
+  margin: 30px auto;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.appearances-card{
+  border: 1px solid #fff;
+  padding: 70px 90px;
+  max-width: 970px;
+  margin: 50px auto;
+  text-align: center;
+}
+.appearances-card h3{
+  width: 580px;
+  margin: 0 auto 70px auto;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  line-height: 2;
+}
+.appearances-card a{
+  padding: 10px 70px;
+}
+
+
+.about-card{
+  margin-top: 250px;
+  background-color: rgb(31, 34, 47);
+
+}
+.about-card .link{
+  padding: 10px 50px;
+ 
+}
+.about-card{
+  position: relative;
+  padding: 30px;
+}
+.about-card .card-img{
+  position: relative;
+  width: 250px;
+  margin: 0 auto;
+  top: -155px;
+} 
+.about-card .card-img img{
+  border-radius: 50%;
+  width: 100%;
+  height: 100%px;
+  margin: 0 auto;
+}
+
+
+.about-card .card-body{
+  width: 465px;
+  margin: 0 auto;
+  text-align: center;
+}
+.about-card .card-body h1{
+  font-size: 45px;
+  font-weight: 400;
+  font-family: 'Cormorant Garamond', serif;
+  color: #FE805D;
+  margin-bottom: 30px;
+}
+.about-card .card-body p span{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.7em;
+}
+
+.btn-box{
+  margin: 50px 0;
+}
+
+
+.header-item{
+  position: relative;
+  text-align: center;
+  height: 60vh;
+  background-color: #000;
+}
+.header-item h1{
+  margin-top: -150px;
+  font-size: 45px;
+  position: absolute;
+
+}
+
+
+
+
+
+
+.footer{
+  background-color: #fe805d;
+}
+
+.footer .author-info{
+  text-align: center;
+  padding: 20px;
+  
+}
+
+.footer .author-info p{
+  color: #000;
+  font-size: 14px;
+  font-weight: 100;
+}
