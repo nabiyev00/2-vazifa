@@ -1,0 +1,1244 @@
+
+
+Button tugmasi chertish xodisasi qaysi atribut orqali aniqlanadi.
+====
+#android:onClick
+====
+onClick
+====
+android:click
+====
+click
+
+
++++++
+
+
+Scale-independent pixel ma’nosini bildiruvchi kattalikni ko‘rsating.
+====
+#sp
+====
+dp
+====
+sip
+====
+Dip
+
+
++++++
+
+
+Density-independent pixel ma’nosini bildiruvchi kattalikni ko‘rsating.
+====
+#dp
+====
+sp
+====
+sip
+====
+Dip
+
+
++++++
+
+
+... &ndash; bu element kengligini ko&lsquo;rsatuvchi atribut.
+====
+#android:layout_width
+====
+android:layout_height
+====
+layout_width
+====
+layout_height
+
+
++++++
+
+
+Android qurilmalar uchun ilovalar yozish muhitini ko&lsquo;rsating.
+====
+#Android Development Tools
+====
+Android Virtual Device
+====
+Android SDK
+====
+JDK
+
+
++++++
+
+
+mdpi o&lsquo;lchamli ekran uchun standart o&lsquo;lchamni ko&lsquo;rsating.
+====
+#48 px
+====
+36 px
+====
+72 px
+====
+32 px
+
+
++++++
+
+
+100 px o&lsquo;lchamli to&lsquo;g&lsquo;ri chiziqning o&lsquo;lchami  Android qurilmasida qancha dp bo&lsquo;ladi. (ldpi)
+====
+#133.3
+====
+100
+====
+66.67
+====
+50
+
+
++++++
+
+
+Density-independent pixel ma&rsquo;nosini bildiruvchi kattalikni ko&lsquo;rsating.
+====
+#dp
+====
+sp
+====
+sip
+====
+Dip
+
+
++++++
+
+
+JSON da yozilgan ma’lumotlar massivlar qanday belgilar orasida beriladi.
+====
+#[ ]
+====
+{ }
+====
+( )
+====
+&lt; &gt;
+
+
++++++
+
+
+100 px o&lsquo;lchamli to&lsquo;g&lsquo;ri chiziqning o&lsquo;lchami  Android qurilmasida qancha dp bo&lsquo;ladi. (mdpi)
+====
+#100
+====
+133.33
+====
+66.67
+====
+50
+
+
++++++
+Mobil qurilmalar uchun ilovalar yozishda ishlatiladigan satrli kattaliklar va izohlar qayerda saqlanadi?
+====
+#res/values papkasining ichida joylashgan strings. xml faylida
+====
+res papkasining ichida joylashgan colors. xml faylida
+====
+res papkasining ichida joylashgan strings. xml faylida
+====
+res/values papkasining ichida joylashgan colors. xml faylida
+
++++++
+
+Yangi ID kiritishni ko&lsquo;rsatib bering.
+====
+#@+id/XXXX
+====
+@id/XXXX
+====
++@id/XXXX
+====
+@$id/XXXX
+
+
++++++
+
+
+Android ilovalarida ishlatiladigan kattalikni ko&lsquo;rsating.
+====
+#dp
+====
+px
+====
+in
+====
+mm
+
+
++++++
+
+
+Android ilovalarida ishlatiladigan kattalikni ko&lsquo;rsating.
+====
+#sp
+====
+sm
+====
+dm
+====
+dpi
+
+
++++++
+
+Android operatsion tizimi berilgan dasturlash tillaridan qaysi birida ishlamaydi?
+====
+#Python
+====
+C++
+====
+Java
+====
+Kotlin
+
+
++++++
+
+
+BlackBerry platformasining dasturlash tili ko&lsquo;rsating?
+====
+#Java
+====
+C++
+====
+Kotlin
+====
+Python
+
+
++++++
+
+
+Android &ndash; bu ...
+====
+#bu mobil qurilmalar uchun mo&lsquo;ljallangan turli hil ilovalar va xizmatlarni o&lsquo;z ichiga olgan operatsion tizim
+====
+bu mobil qurilmalar uchun mo&lsquo;ljallangan turli hil ilovalar va xizmatlarni o&lsquo;z ichiga olgan dastur
+====
+bu mobil qurilmalar uchun mo&lsquo;ljallangan turli hil ilovalar va xizmatlarni o&lsquo;z ichiga olgan drayver
+====
+bu mobil qurilmalar uchun mo&lsquo;ljallangan turli hil ilovalar va xizmatlarni o&lsquo;z ichiga olgan paket
+
+
++++++
+
+
+... - bu Android tizimining yadrosi hisoblanadi.
+====
+#Linux kernel
+====
+Dalvik
+====
+Virtual machine
+====
+SDK
+
+
++++++
+
+
+Android ning 1 versiyasi qachon ishlab chiqilgan?
+====
+#Sentyabr 23, 2008 yil
+====
+Fevral 9, 2009 yil
+====
+Aprel 27, 2009 yil
+====
+Sentyabr 3, 2008 yil
+
+
++++++
+
+
+Android 4.0.x qanday nomlangan?
+====
+#Ice Cream Sandwich
+====
+Jelly Bean
+====
+KitKat
+====
+Honeycomb
+
+
++++++
+
+
+100 px o&lsquo;lchamli to&lsquo;g&lsquo;ri chiziqning o&lsquo;lchami  Android qurilmasida qancha dp bo&lsquo;ladi. (hdpi)
+====
+#66.67
+====
+100
+====
+133.33
+====
+50
+
+
++++++
+
+
+100 px o&lsquo;lchamli to&lsquo;g&lsquo;ri chiziqning o&lsquo;lchami  Android qurilmasida qancha dp bo&lsquo;ladi. (xhdpi)
+====
+#50
+====
+100
+====
+66.67
+====
+133.33
+
+
++++++
+
+
+... - bu metodning vazifasi activity yaratilganida berilgan ketma&ndash;ketliklarni bajarishdan iborat va bir marta bajariladi.
+====
+#onCreate()
+====
+onStart()
+====
+onResume()
+====
+onPause()
+
+
++++++
+
+
+... &ndash; bu metod activity mobil qurilmaning oynasida hosil bo&lsquo;lganda, ya&rsquo;ni foydalanuvchiga ko&lsquo;ringanida chaqiriladi.
+====
+#onStart()
+====
+onResume()
+====
+onPause()
+====
+onCreate ()
+
+
++++++
+
+
+... &mdash; bu metod foydalanuvchi tomonidan activity bilan ishlayotgan vaqtda chaqiriladi.
+====
+#onResume()
+====
+onPause()
+====
+onCreate ()
+====
+onStart()
+
+
++++++
+
+
+... &ndash; ushbu metod joriy activity faoliyati vaqtinchalik to&lsquo;xtatib, boshqa activity faollashtirilganda chaqiriladi.
+====
+#onPause()
+====
+onCreate ()
+====
+onStart()
+====
+onResume()
+
+
++++++
+
+
+... &mdash; ushbu metod activity foydalanuvchiga ko&lsquo;rinmay qolganida chaqiriladi.
+====
+#onStop()
+====
+onCreate ()
+====
+onStart()
+====
+onResume()
+
+
++++++
+
+
+... &ndash; bu tartib elementi tashkil etuvchi elementlarni bir tomonga, ya&rsquo;ni vertikal yoki gorizontal tarzda joylashtiradi.
+====
+#LinearLayout
+====
+RelativeLayout
+====
+TableLayout
+====
+AbsoluteLayout
+
+
++++++
+
+
+Elementlar guruxidan tashkil topgan ro&lsquo;yxatni aks ettiruvchi elementlari guruhi bu &ndash; ...
+====
+#ListView
+====
+GridView
+====
+LinearLayout
+====
+RelativeLayout
+
+
++++++
+
+
+... &ndash; bu element balandligini ko&lsquo;rsatuvchi atribut.
+====
+#android:layout_height
+====
+android:layout_width
+====
+layout_width
+====
+layout_height
+
+
++++++
+
+
+&hellip; &ndash; bu atribut X koordinatasini bildiradi.
+====
+#android:layout_x
+====
+android:layout_y
+====
+layout_x
+====
+layout_y
+
+
++++++
+
+
+&hellip; &ndash; bu atribut Y koordinatasini bildiradi.
+====
+#android:layout_y
+====
+android:layout_x
+====
+layout_y
+====
+layout_x
+
+
++++++
+
+
+...&nbsp;&ndash; yaratilgan element uchun talab qilinadigan eng kichik o&lsquo;lchovni bildiradi.
+====
+#wrap_content
+====
+fill_parent
+====
+match_parent
+====
+match_content
+
+
++++++
+
+
+&hellip; &ndash; yaratilgan element uchun tartiblash elementining talab qilingan eng katta o&lsquo;lchovini bildiradi.
+====
+#fill_parent
+====
+wrap_content
+====
+match_parent
+====
+match_content
+
+
++++++
+
+
+... &ndash; bu funksiya aktivitidagi vidjetlarni ob&rsquo;ekt sifatida belgilash uchun ishlatiladi.
+====
+#findViewById()
+====
+findViewId()
+====
+findById()
+====
+viewById()
+
+
++++++
+
+
+Java dasturlash tilida vorislik olish uchun ishlatiladigan xizmatchi so&lsquo;zni ko&lsquo;rsating.
+====
+#extends
+====
+implements
+====
+override
+====
+overload
+
+
++++++
+
+
+Qayta yozish uchun mo&lsquo;ljallangan metodlarning oldida ... buyrug&lsquo;i yoziladi.
+====
+#override
+====
+extends
+====
+implements
+====
+overload
+
+
++++++
+
+
+Qayta yuklash uchun mo&lsquo;ljallangan metodlar oldida ... buyrug&lsquo;i yoziladi.
+====
+#overload
+====
+override
+====
+extends
+====
+implements
+
+
++++++
+
+
+Button tugmasi chertish xodisasi qaysi atribut orqali aniqlanadi.
+====
+#android:onClick
+====
+onClick
+====
+android:click
+====
+click
+
+
++++++
+
+
+Scale-independent pixel ma&rsquo;nosini bildiruvchi kattalikni ko&lsquo;rsating.
+====
+#sp
+====
+dp
+====
+sip
+====
+Dip
+
+
++++++
+
+
+ArrayList yordamida yaratilgan ob&rsquo;ektlar massivining uzunligini qaytaruvchi metodni ko&lsquo;rsating.
+====
+#size()
+====
+length()
+====
+len()
+====
+count()
+
+
++++++
+
+
+ArrayList yordamida yaratilgan ob&rsquo;ektlar massiviga yangi ob&rsquo;ekt joylashtiruvchi metodni ko&lsquo;rsating.
+====
+#add
+====
+size
+====
+insert
+====
+delete
+
+
++++++
+
+
+Assorsiativ massiv yaratuvchi klassni ko&lsquo;rsating.
+====
+#HashMap
+====
+List
+====
+ArrayList
+====
+ArrayMap
+
+
++++++
+
+xhdpi o‘lchamli ekran uchun standart o‘lchamni ko‘rsating. 
+======
+#96 px
+======
+48 px
+======
+72 px
+======
+36 px
+
++++++
+
+AndroidStudio muhiti berilgan dasturlash tillaridan qaysi birlarida ishlaydi?
+======
+#Java, Kotlin
+======
+Python, C++
+======
+Python, Java
+======
+Kotlin, Ruby
++++++
+Assorsiativ massiv yaratuvchi klassni ko‘rsating.
+====
+#HashMap
+====
+List
+====
+ArrayList
+====
+ArrayMap
+
+
++++++
+
+
+Androiddagi ma’lumotlar yoki resurslar nimada saqlanadi.
+====
+#Klasslar va xususiyatlarda
+====
+Klasslarda va xodisalarda
+====
+Xodisalarda
+====
+Obyektlarda
+
+
++++++
+
+Java dasturlash tilida vorislik olish uchun ishlatiladigan xizmatchi so‘zni ko‘rsating
+====
+#extends
+====
+implements
+====
+override
+====
+overload
+
+
++++++
+
+
+Qayta yozish uchun mo‘ljallangan metodlarning oldida ... buyrug‘i yoziladi.
+====
+#override
+====
+extends
+====
+implements
+====
+overload
+
+
++++++
+
+
+Qayta yuklash uchun mo‘ljallangan metodlar oldida ... buyrug‘i yoziladi.
+====
+#overload
+====
+override
+====
+extends
+====
+implements
+
+
++++++
+
+
+JSON da yozilgan ma’lumotlar obyektlar qanday belgilar orasida beriladi.
+====
+#{ }
+====
+[ ]
+====
+( )
+====
+&lt; &gt;
+
+
++++++
+
+
+JSON da yozilgan ma’lumotlarni bo‘laklashda butun sonli qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
+====
+#getInt()
+====
+GetInteger()
+====
+get_int()
+====
+get_integer()
+
+
++++++
+
+
+JSON da yozilgan ma’lumotlarni bo‘laklashda satrli qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
+====
+#getString()
+====
+GetString()
+====
+get_str()
+====
+get_string()
+
+
++++++
+
+
+JSON da yozilgan ma’lumotlarni bo‘laklashda haqiqiy sonli qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
+====
+#getDouble()
+====
+GetDouble()
+====
+getFloat()
+====
+getReal()
+
+
++++++
+
+
+JSON da yozilgan ma’lumotlarni bo‘laklashda obyekt qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
+====
+#getJSONObject()
+====
+GetJSONObject()
+====
+getObject()
+====
+getObjectJSON()
+
+
++++++
+
+
+JSON da yozilgan ma’lumotlarni bo‘laklashda massiv qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
+====
+#getJSONArray()
+====
+GetJSONArray()
+====
+getArray()
+====
+getArrayJSON()
+
+
++++++
+
+
+Ma’lumotlarni mobil qurilmaning xotirasiga yuklashda ishlatiladigan klass nomini ko‘rsating
+====
+#AsyncTask
+====
+TaskAsync
+====
+InformationLoad
+====
+LoadInformation
+
+
++++++
+
+
+Dialog oynasi qaysi klass yordamida yaratiladi
+====
+#AlertDialog
+====
+ProgressDialog
+====
+Dialog
+====
+Fragment
+
+
++++++
+
+
+Dialog oynasi uchun sarlavhani o‘rnatuvchi metodni ko‘rsating.
+====
+#setTitle()
+====
+setCaption()
+====
+setText()
+====
+setMessage()
+
+
++++++
+
+
+Dialog oynasida chiquvchi xabarni o‘rnatuvchi metodni ko‘rsating.
+====
+#setMessage()
+====
+setTitle()
+====
+setCaption()
+====
+setText()
+
+
++++++
+
+
+SMS larni jo‘natish uchun ishlatiladigan klassni ko‘rsating.
+====
+#SmsManager
+====
+SMS
+====
+SMSSend
+====
+SendSMS
+
+
++++++
+
+
+Faqat raqamli ma’lumotlarni kiritish uchun EditText vidjetini qaysi atributi o‘zgartiriladi.
+====
+#android:inputType
+====
+inputType
+====
+ems
+====
+android:ems
+
+
++++++
+
+
+Mobil ilovalarda ma’lumotlar bazasini qaysi MBBT da yaratiladi
+====
+#SQLite
+====
+MySQL
+====
+MS SQL Server
+====
+Oracle
+
+
++++++
+
+
+SQLite MB dan foydalanishda MBni yaratish qaysi klassdan foydalaniladi
+====
+#SQLiteOpenHelper
+====
+SQLiteOpen
+====
+SQLiteHelper
+====
+SQLiteBase
+
+
++++++
+
+
+Ma’lumotlar bazasiga yozuvlar qo‘shish uchun foydalaniladigan metodni ko‘rsating.
+====
+#insert
+====
+delete
+====
+select
+====
+update
+
+
++++++
+
+
+Ma’lumotlar bazasiga yozuvlar o‘chirish uchun foydalaniladigan metodni ko‘rsating.
+====
+#delete
+====
+insert
+====
+select
+====
+update
+
+
++++++
+
+
+Ma’lumotlar bazasiga yozuvlar taxrirlash uchun foydalaniladigan metodni ko‘rsating.
+====
+#update
+====
+insert
+====
+select
+====
+delete
+
+
++++++
+
+
+Ma’lumotlarni kiritish uchun ma’lumotlar qaysi klassdan foydalanib MB ga qo‘shiladi yoki taxrirlanadi.
+====
+#ContentValues
+====
+Values
+====
+Content
+====
+String
+
+
++++++
+
+
+MB da yozuvlarni birma–bir saqlaydigan klass nomini ko‘rsating.
+====
+#Cursor
+====
+Values
+====
+Content
+====
+String
+
+
++++++
+
+
+MB sini yozish uchun ochish metodini belgilang
+====
+#getWritableDatabase
+====
+getReadableDatabase
+====
+getWritable
+====
+getReadable
+
+
++++++
+
+
+Tarmoqli ilovalar yaratishda manzillarni qaysi klass yordamida yaratiladi.
+====
+#Url
+====
+Uri
+====
+HttpURLConnection
+====
+URLConnection
+
+
++++++
+
+
+LinearLayout vidjeti yordamida komponentalarni vertikal va gorizontal joylashtirishda vidjetning qaysi atributi o‘zgartiriladi.
+====
+#android:orientation
+====
+orientation
+====
+text
+====
+android:text
+
+
++++++
+
+
+Vidjetning joylashuvini ko‘rstuvchi atributni ko‘rsating.
+====
+#android:layout_gravity
+====
+layout_gravity
+====
+android:layout_weight
+====
+layout_weight
+
+
++++++
+
+
+Android telefonlarida qo‘shimcha xizmatlarni yoqish uchun qaysi fayl o‘zgartiriladi.
+====
+#AndroidManifest.xml
+====
+ActivityManager.xml
+====
+activity_main.xml
+====
+ActivityMain.xml
+
+
++++++
+
+
+Android telefonlarida internet xizmatini yoqish uchun qaysi buyruq yoziladi.
+====
+#&lt;uses-permission android:name=”android.permission.INTERNET”/&gt;
+====
+&lt;uses android:name=”android.permission.INTERNET”/&gt;
+====
+&lt;uses-permission android:name=”android.INTERNET”/&gt;
+====
+&lt;uses-permission name=”android.permission.INTERNET”/&gt;
+
+
++++++
+
+
+Ilovani eng kichik android versiyasini ko‘rsatish uchun qaychi buyruq yoziladi.
+====
+#&lt;uses-sdk android:minSdkVersion=”X” /&gt;
+====
+&lt;uses android:minSdkVersion=”X” /&gt;
+====
+&lt;uses-sdk minSdkVersion=”X” /&gt;
+====
+&lt;uses-sdk version=”X” /&gt;
+
+
++++++
+
+
+Android telefonlarida SMS habarlarini xizmatini yoqish uchun qaysi buyruq yoziladi.
+====
+#&lt;uses-permission android:name=”android.permission.SEND_SMS”/&gt;
+====
+&lt;uses android:name=”android.permission.SEND_SMS”/&gt;
+====
+&lt;uses-permission android:name=”android.SEND_SMS”/&gt;
+====
+&lt;uses-permission name=”android.permission.SEND_SMS”/&gt;
+
+
++++++
+
+
+AsuncTask klassi yordamida yaratilayotgan foydalanuvchi klassida qaysi metod ma’lumotlarni o‘qish uchun ishlatiladi.
+====
+#doInBackground()
+====
+onPostExecute()
+====
+downloadImageTask()
+====
+onPreExecute()
+
+
++++++
+
+
+AsuncTask klassi yordamida yaratilayotgan foydalanuvchi klassida qaysi metod ma’lumotlarni foydalanuvchining obyektiga uzatish uchun ishlatiladi.
+====
+#onPostExecute()
+====
+downloadImageTask()
+====
+onPreExecute()
+====
+doInBackground()
+
+
++++++
+
+
+Foydalanuvchi tomonidan yaratiladagan xizmatlar (Servis) qaysi klass yordamida yaratiladi
+====
+#Service
+====
+onBind
+====
+onStartCommand
+====
+Servis
+
+
++++++
+
+
+Foydalanuvchi tomonidan yaratiladagan xizmatlar (Servis) qaysi buyruq orqali ilovaga tanishtiriladi
+====
+#&lt;service android:name=”.ServiceName” /&gt;
+====
+&lt;service name=” .ServiceName” /&gt;
+====
+&lt;service android=” ServiceName” /&gt;
+====
+&lt;service name:android=” ServiceName” /&gt;
+
+
++++++
+
+
+Ilovada servisni yoqish uchun qaysi funksiya ishlatiladi.
+====
+#startService
+====
+startActivity
+====
+startActivityForResult
+====
+stopService
+
+
++++++
+
+
+Dastur yordamida komponentalarga rang berish uchun ranglardan qanday foydalaniladi.
+====
+#Color.RED
+====
+Color.Red
+====
+COLOR.Red
+====
+COLOR.RED
+
+
++++++
+
+
+Dasturda qizil rang qanday ifodalaniladi.
+====
+#Color.RED
+====
+Color.Red
+====
+COLOR.Red
+====
+COLOR.RED
+
+
++++++
+
+
+Bir aktivitidan boshqa aktivitini chaqirish uchun qaysi funksiyadan foydalaniladi.
+====
+#startActivity
+====
+startService
+====
+startActivityForResult
+====
+stopService
+
+
++++++
+
+
+Bir aktivitidan boshqa aktivitini natija qaytaruvchi qilib chaqirish uchun qaysi funksiyadan foydalaniladi.
+====
+#startActivityForResult
+====
+startService
+====
+startActivity
+====
+stopService
+
+
++++++
+
+
+Aktivitini to‘xtatish buyrug‘ini ko‘rsating
+====
+#finish
+====
+stopActivity
+====
+stopService
+====
+stop
+
+
++++++
+
+
+JSON bilan ishlayotgan vaqtda hatoliklarni boshqaruvchi klassni ko‘rsating
+====
+#JSONException
+====
+Exception
+====
+IOException
+====
+NullPointerException
+
+
++++++
+
+
+ArrayList yordamida yaratilgan obyektlar massivining uzunligini qaytaruvchi metodni ko‘rsating
+====
+#size()
+====
+length()
+====
+len()
+====
+count()
+
+
++++++
+
+
+ArrayList yordamida yaratilgan obyektlar massiviga yangi obyekt joylashtiruvchi metodni ko‘rsating
+====
+#add
+====
+size
+====
+insert
+====
+delete
