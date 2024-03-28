@@ -1,0 +1,3870 @@
+
+
+
+Tabiatda signallar asosan qanday holatda bo‘ladi ?
+====
+#analog
+====
+raqamli
+====
+kvantlashgan
+====
+to‘g‘ri javob yo‘q
+
+
+
++++++
+
+
+
+Signallarni korrelyatsiya qilishning nechta shakli mavjud?
+====
+#2
+====
+5
+====
+7
+====
+4
+
+
+
+
++++++
+
+
+
+Tibbiyotda ishlatiladigan signal turlarini belgilang?
+====
+#elektromiografiya signali, elektroensefalografiya signali, elektrokardiografiya signali
+====
+davriy signal, statsionar signal, garmonik signal
+====
+tovush signali, garmonik signal, EKG signallari
+====
+barcha javoblar to'g'ri
+
+
+
++++++
+
+
+
+
+Signalni dastlabki holati uni qaysi sohasini anglatadi?
+====
+#Amplituda -Vaqt soxasi
+====
+Chastota soxasi
+====
+Vaqt-chastota soxasi
+====
+barcha javoblar to’g’ri
+
+
+
+
++++++
+
+
+
+
+Signal protsessorlari ishlab chiqaruvchi mashhur firmalarni ko'rsating.
+====
+#Analog Device, Motorola, Texas Instruments
+====
+Analog Device, Lenovo
+====
+Analog Device, HP, Acer
+====
+barchasi to’g’ri
+
+
+
+
++++++
+
+
+
+Tasvir signalining piksellari qanday ranglardan tashkil topgan?
+====
+#qizil ko’k yashil
+====
+qora oq qizil
+====
+sariq qora oq
+====
+ko’k qora qizil
+
+
+
+
++++++
+
+
+
+
+To‘g‘ri javobni tanlang: o‘zaro korrelyatsiya …..
+====
+#ikkita signalning o’xshashligi yoki umumiy xususiyatlarining ko’rsatkichidir
+====
+ikkita signalning o’xshamasligi yoki umumiy xususiyatlarining ko’rsatkichidir
+====
+umumiy xususiyatlari ko’rsatkichimas
+====
+to’g’ri javob yo'q
+
+
+
+
++++++
+
+
+
+
+To‘g‘ri javobni tanlang: Avtokorrelyatsiya bu ?
+====
+#Faqat bitta signalning mavjudligi nazarda tutadi va vaqt o’tishi bilan signalning tuzilishi yoki uning harakati haqida malumot beradi
+====
+Ko’plab signalning mavjudligi nazarda tutadi va vaqt o’tishi bilan signalning tuzilishi yoki uning harakati haqida malumot beradi
+====
+Faqat bitta signalning mavjudligi nazarda tutmaydi va vaqt o’tishi bilan signalning tuzilishi yoki uning harakati haqida malumot beradi
+====
+Faqat bitta signalning mavjudligi nazarda tutadi va vaqt o’tishi bilan signalning tuzilishi yoki uning harakati haqida malumot bermaydi
+
+
+
+
++++++
+
+
+
+
+Chekli impuls harakteristikali(KIX ing: FIR) filtr uchun to‘g‘ri ta'rifni belgilang?
+====
+#impuls tavsifnomasini vaqt mobaynida cheklangan xususiyatli bo‘ladi
+====
+impuls tavsifnomasini vaqt mobaynida cheklanmagan xususiyatli bo‘ladi
+====
+barcha javoblar to'g'ri
+====
+bunday filtrlar odatda ishlatilmaydi
+
+
++++++
+
+
+
+Signal deb ………………………………… aytiladi?
+====
+#biror bir fizik jarayonning bir yoki nechta parametlarini xabarga mos ravishda o‘zgarishiga
+====
+inson haqida ma’lumot beruvchi kundalik
+====
+bu xar xil fizik jarayonlar, jismlar, tarixiy va kundalik xodisalar to‘g‘risidagi ma'lumotnomaga
+====
+uzatish uchun uni ma'lum bir shaklga keltirish lozim tekst, jadval, grafik, rasm, xarakatdagi tasvir, va boshqalarga.
+
+
+
++++++
+
+
+
+Elektromagnit  tulqinning  to’lqin uzunligi deb  nimaga aуtaladi , to’g’ri tahrifni belgilang?
+====	
+# Elektromagnit to’lqinining T vaqt ichida  bosib  o’tgan  to’gri  masofasi uning to’lqin uzunligi deb ataladi;
+====
+Elektromagnit  to’lqinining  1 sekund  ichida  bosib  o’tgan  to’gri  masofasi uning to’lqin uzunligi deb ataladi;
+====
+Elektromagnit  to’lqinining   10 sekund ichida  bosib  o’tgan  to’gri  masofasi uning to’lqin uzunligi deb ataladi;
+====
+Elektromagnit  to’lqinining  qiska  vakt  ichida  bosib  o’tgan  to’gri  masofasi uning to’lqin uzunligi deb ataladi;
+
+
+
+
++++++
+
+
+
+
+Chastota modulyatsiyasida signalning kaysi parametir o’zgaradi?
+====
+# Modulyatsiyalovchi signalga рroрortsional ravishda tashuvchini chastotasi o’zgaradi;
+====
+Modulyatsiyalovchi signalga рroрortsional ravishda tashuvchini fazasi o’zgaradi;
+====
+Modulyatsiyalovchi signalga рroрortsional ravishda tashuvchini amрlitudasi o’zgaradi;
+====
+Modulyatsiyalovchi signalga рroрortsional ravishda tashuvchini amрlitudasi va chastotasi o’zgaradi;
+
+
+
+
++++++
+
+
+
+
+Elektr tokining chastotasi bu ……..?
+====
+# elektr tokini bir sekund ichidagi  tebranishlar sonidir;
+====
+elektr tokini ikki bir on ichidagi  tebranishlar sonidir;
+====
+elektr tokini qisqa vaqt ichidagi  tebranishlar sonidir;
+====
+elektr tokini bir minut ichidagi  tebranishlar sonidir;
+
+
+
+
++++++
+
+
+
+Tebranish dastlab qanday qurilmada sodir bo’ladi?
+====
+# rezonatorda;
+====
+bezonatorda;
+====
+tenzonatorda;
+====
+azonatorda;
+
+
+
+
++++++
+
+
+
+Vaqt bo’yicha diskretlangan signaldan uzluksiz signalni qayta tiklash uchun uni quyidagi qurilmadan o’tkazish lozim:?
+====
+# ideal past chastotali filg’trdan;
+====
+koderdan;
+====
+dekoderdan;
+====
+differentsiatordan;
+
+
+
+
++++++
+
+
+
+
+Band Pass Filtr uchun to’g’ri ta’rif berilgan qatorni toping.
+====
+#Signal chastotasi berilgan o’tkazish chastota kengligi ichida bo’lgan qismini o’tkazadi
+====
+Signal chastotasi berilgan o’tkazish chastota kengligi ichida bo’lgan qismini o’tkazmaydi
+====
+Signal chastotasi berilgan o’tkazish chastota kengligi ichida bo’lmagan qismini o’tkazadi
+====
+To’g’ri javob yo’q
+
+
+
+
++++++
+
+
+
+
+Qanday jarayon asosida diskret signal paydo bo’ladi?
+====
+#Diskretlash
+====
+Kvantlash
+====
+Shifrlash
+====
+To’g’ri javob yo’q
+
+
+
+
++++++
+
+
+
+
+Signalni diskretlash qaysi o’q bo’yicha amalga oshiriladi?
+====
+#vaqt
+====
+amplituda
+====
+chastota
+====
+quvvat
+
+
+
+
++++++
+
+
+
+Tasvir signalining piksellari necha xil rangdan tashkil topgan?
+====
+#3
+====
+5
+====
+6
+====
+8
+
+
+
+
++++++
+
+
+
+Signalni kodlash nima?
+====
+#signalni ikkilik sanoq sistemasiga o'tkazish
+====
+signalni qabul qilish
+====
+signalni qism-qism qilib bo'laklash
+====
+signalni diskretlangan qismini hisoblash
+
+
+
+
++++++
+
+
+
+Signalni segmentlash jarayoni qanday?
+====
+#signalni ma’lum bo’laklarga ajratish
+====
+signalni tanish
+====
+signalni kvantlash
+====
+signalni kodlash
+
+
+
+
++++++
+
+
+
+
+Qanday turdagi signal tashqi ta’sirlarda kamroq o’zgaradi?
+====
+#Raqamli signal
+====
+Analog signal
+====
+Analog va raqamli signal
+====
+To’g’ri javob A va B javoblar
+
+
+
+
++++++
+
+
+
+
+16 kHz chastota necha Hz chastota bo’ladi?
+====
+#16000
+====
+16384
+====
+16100
+====
+16050
+
+
+
+
++++++
+
+
+
+
+Analog signal qanday bo’ladi?
+====
+#Analog signal uzliksiz bo’ladi
+====
+Analog signal kavntlangan bo’ladi
+====
+Analog signal diskretlangan bo’ladi
+====
+To’g’ri javob yo’q
+
+
+
+
++++++
+
+
+
+KIX (eng: FIR) filtr uchun to’g’ri ta’rif berilgan qatorni toping.
+====
+#Chekli impuls xarakteristikali filtr
+====
+Cheksiz impuls xarakteristikali filtr
+====
+Impuls xarakteristikali filtr emas
+====
+Tog’ri javob yo’q
+
+
+
+
++++++
+
+
+
+
+Qanday turdagi signal tashqi ta’sirlarda kamroq o’zgaradi?
+====
+#Raqamli signal
+====
+Analog signal
+====
+Analog va raqamli signal
+====
+To’g’ri javob A va B javoblar
+
+
+
+
++++++
+
+
+
+
+Raqamli signal qanday bo’ladi?
+====
+#Raqamli signal uzlukli bo’ladi
+====
+Raqamli signal uzlukliz bo’ladi
+====
+Raqamli signal analog bo’ladi
+====
+To’g’ri javob yo’q
+
+
+
+
++++++
+
+
+
+
+Signallarni qayta ishlashning an’anaviy bosqichlarini belgilang?
+====
+#signalni olish, dastlabki ishlov berish, belgilarini aniqlash
+====
+tasniflash, filtrlash, dastlabki ishlov berish
+====
+signalni tanish, qayd qilish, filtrlash
+====
+barcha javoblar to'g'ri
+
+
+
+
++++++
+
+
+
+
+QNX operatsion tizimiga to'g'ri ta'rif berilgan qatorni toping?
+====
+#real vaqt tizimida ishlovchi mikroyadroli operatsion tizim
+====
+Operatsion tizim yopiq kodli
+====
+Faqat bir foydalanuvchi uchun ishlab chiqilgan
+====
+barcha javoblar to'g'ri
+
+
+
+
++++++
+
+
+
+
+Korrelyatsiya ikki shakli mavjud ularni nomini aniqlang.
+====
+#Avtokorrelyasiya va o'zaro korrelyasiya
+====
+O'zaro korrelyasiya va siklik
+====
+Radar signalar va chastotalar
+====
+To'gri javob yo'q
+
+
+
+
++++++
+
+
+
+
+Raqamli signal prosessorlari ishlab chiqaradigan firmalar qatorini ko'rsating.
+====
+#Analog Device,Motorola,Texas Insruments
+====
+Motorola, Nokia, Samsung
+====
+LG,Samsung
+====
+To'gri javob yo'q
+
+
+
+
++++++
+
+
+
+
+Elektr signal deb –
+====
+#elektr jarayonining bir yoki bir nechta parametrlarini xabarga mos ravishda o’zgarishiga aytiladi
+====
+xabarni fazoniy bir nuqtasidan ikkinchi nuqtasiga uzatish uchun xabarni biror bir fizik jarayonga yuklashimiz ya'ni
+uni signalga aylantirishimiz
+====
+bu xar xil fizik jarayonlar, jismlar, tarixiy va kundalik xodisalar to‘g‘risidagi ma'lumotga
+====
+uzatish uchun uni ma'lum bir shaklga keltirish lozim tekst, jadval, grafik, rasm, xarakatdagi tasvir, va boshqalar
+
+
+
+
++++++
+
+
+
+
+Xabar manbadan xabar iste’molchiga yetkazib berish uchun foydalaniladigan texnik qurilmalar to’plamiga …………………  deb ataladi.
+====
+#Aloqa tizimi
+====
+Aloqa liniyasi
+====
+Aloqa qurilmasi
+====
+ Aloqa tuguni
+
+
+
+
++++++
+
+
+
+
+Matematik nuqtai nazardan, uzluksiz signal doimiy....... ifodalanadi.
+====
+#funktsiyani
+====
+grafikni
+====
+matematikani
+====
+fizikani
+
+
+
+
++++++
+
+
+
+
+Chastota detektorida LC tebranish konturi .......... uchun ishlatiladi.?
+====
+# chastotasi modulyatsiyalangan signalni amplitudasi modulyatsiyalangan signalga aylantirish;
+====
+signalni chastotasini kuchaytirish;
+====
+tashuvchi chastotaga sozlash;
+====
+filtrlash;
+
+
+
+
++++++
+
+
+
+
+ChM detectorida qaysi qurilma mavjud?
+====
+# Amplituda cheklagichi;
+====
+amplituda chizgichi;
+====
+chastota cheklagichi;
+====
+tok cheklagichi;
+
+
+
+
++++++
+
+
+
+
+Diskret modulyatsiya turlaridan qaysi biri eng katta xalaqitbardoshlikka ega?
+====
+# faza modulyatsiyasi;
+====
+amplituda modulyatsiyasi;
+====
+chastota modulyatsiyasi;
+====
+Vaqt modulyatsiyasi;
+
+
+
+
++++++
+
+
+
+
+Signalni uzatishda modulyatorga nechta signal beriladi?
+====
+# asosan 2 ta signal beriladi;
+====
+asosan 1 ta signal beriladi;
+====
+asosan 3 ta signal beriladi;
+====
+asosan 4 ta signal beriladi;
+
+
+
+
++++++
+
+
+
+Chastota modulyatsiyasida chastota deviatsiyasi(og'ishi) nimaga  bog’liq bo’ladi?
+====
+# modulyatsiyalovchining amplitude va chastotasiga;
+====
+modulyatsiyalovchining fazasiga;
+====
+tashuvchining chastotasiga;
+====
+tashuvchining fazasiga;
+
+
+
+
++++++
+
+
+
+
+FM (faza modulyatsiyasi) signalning o’zgaraishini ifodalash atatamasi:?
+====
+# Faza indeksi;
+====
+Chastota  yandeksi;
+====
+Chastota  indeksi;
+====
+Chastota davri;
+
+
+
+
++++++
+
+
+
+Signallarni uzluksiz yoki diskret miqdor qiymatlarining qatorini chekli oraliqlarga bo‘lish jarayoni qanday nomladi?
+====
+#Kvantlash
+====
+Freymlash
+====
+Diskretlash
+====
+Taqsimlash
+
+
+
+
++++++
+
+
+
+Oddiy raqamli signal protsessorlari tizimi quyidagilardan iborat:
+====
+#DSP, xotira, ADC, DAC va aloqa portlari
+====
+mikroprotsessor va xotira
+====
+mikroprotsessor, ADC va DAC
+====
+mikroprotsessor va yordamchi ombor
+
+
+
+
++++++
+
+
+
+Fourier transform (FT) quyidagilar uchun ishlatiladi:
+====
+#vaqt domenidan davriy bo'lmagan signallarni chastota domeniga o'zgartirish
+====
+faqat vaqt domenidan chastota domeniga davriy signallarni va aksincha
+====
+diskret signallarni siqish
+====
+kiruvchi signal chastotalarini filtrlash
+
+
+
+
++++++
+
+
+
+
+Signallarni qayta ishlashda eng ko`p ishlatiladigan amal
+====
+#Svyortka
+====
+Korrelyatisiya
+====
+Tanib olish masalalari
+====
+Identifikatsiya
+
+
+
+
++++++
+
+
+
+
+Signal chastotasi 230 Hz va qurilmaning disktretlash chastotasi 16 kHz bo'lsa, qurilma 1 sekundda nechta qiymat qabul qiladi.
+====
+#16000
+====
+15670
+====
+16230
+====
+8230
+
+
+
+
++++++
+
+
+
+Aloqa qurilmasini energiya manbasi nima bo’lishi mumkin?
+====
+# To’grilagich, akkamulyator, quyosh va shamol generatorlari;
+====
+avtogeneratorlar;
+====
+bloking-generatorlar;
+====
+servomotorlar;
+
+
+
+
++++++
+
+
+
+
+Low Pass Filtr uchun to’g’ri ta’rif berilgan qatorni toping.
+====
+#Bu turdagi filtr chastotasi aniqlangan qiymatdan past bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlaydi
+====
+Bu turdagi filtr chastotasi aniqlangan qiymatdan past bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlamaydi
+====
+Bu turdagi filtr chastotasi aniqlangan qiymatdan yuqori bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlaydi
+====
+Bu turdagi filtr chastotasi aniqlangan qiymatdan yuqori bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlamaydi
+
+
+
+
++++++
+
+
+
+Qayta ishlanadigan signallar qanday guruhlarga bo’linadi?
+====
+#Barcha javoblar to’g’ri
+====
+Diskret
+====
+Raqamli
+====
+Analogli
+
+
+
+
++++++
+
+
+
+Diskretlash natijasida qanday signal paydo bo’ladi?
+====
+#Diskret
+====
+Filtr
+====
+Analog
+====
+Hech qanaqa signal paydo bo’lmaydi
+
+
+
+
++++++
+
+
+
+
+Signalga to’g’ri ta’rif berilgan qatorni belgilang
+====
+#bu fizik jarayon bo’lib, uning parametrlari uzatilayotgan xabarga muvofiq o’zgaradi
+====
+bu fizik jarayon bo’lib, uning parametrlari uzatilayotgan xabarga muvofiq o’zgarmaydi
+====
+bu fizik jarayon bo’lib, uning parametrlari uzatilmayotgan xabarga muvofiq o’zgaradi
+====
+bu fizik jarayon bo’lib, uning parametrlari bo’lmaydi
+
+
+
++++++
+
+Analog signal bilan raqamli signal o’rtasida qanday farq bor?
+====
+#Analog signal uzluksiz, raqamli signal uzlukli bo’ladi
+====
+Analog signal uzluksiz, raqamli signal uzlukliz bo’ladi
+====
+Analog signal uzlukli, raqamli signal uzlukli bo’ladi
+====
+Analog signal uzlukli, raqamli signal uzlukliz bo’ladi
+
+
+
+
++++++
+
+
+
+Tibbiyotda ishlatiladigan signal turlarini belgilang.
+====
+#elektromiografiya signali, elektroensefalografiya signali, elektrokardiografiya signal
+====
+davriy signal, statsionar signal, garmonik signal
+====
+tovush signali, garmonik signal, EKG signallari
+====
+barcha javoblar to’g’ri
+
+
+
+
++++++
+
+
+
+
+Signallarga ishlov berishda qaysi sohalarda jarayonlarni amalga oshirish mumkin?
+====
+#Vaqt va chastota sohasida
+====
+Faza va chastota sohasida
+====
+Vaqt va faza sohasida
+====
+Faza va amplituda sohasida
+
+
+
+
++++++
+
+
+
+QNX operatsion tizimi qaysi arxitektura asosida qurilgan?
+====
+#Mikroyadroli
+====
+SIMD
+====
+MIMD
+====
+MISD
+
+
+
++++++
+
+
+
+Filtrlarni loyihalashda signallarni nimalar yordamida filtrlanadi?
+====
+#Filtr koeffisentlari
+====
+Kiruvchi signal
+====
+Chiquvchi signal
+====
+Shovqin signal
+
+
+
+
++++++
+
+
+
+Kotelnikov teoremasiga to’gri ta'rif berilgan variantni ko’rsating?
+====
+#diskretlash chastota asosiy signal  chastotasidan 2 marta  katta bo'lishi kerak 
+====
+diskretlash chastota asosiy signal  chastotasidan 6 marta  katta bo'lishi kerak
+====
+diskretlash chastota asosiy signal  chastotasidan 4 marta  katta bo'lishi kerak
+====
+diskretlash chastota asosiy signal  chastotasiuga teng bo'lishi kerak
+
+
+
++++++
+
+Band Stop Filtr uchun to'g'ri javobni belgilang?
+====
+#Chastotasi filtr hisoblanayotganda berilgan chastota o’tkazuvchanlik kengligidan tashqaridagi barcha signallarni o’tkazadi
+====
+Chastotasi filtr hisoblanmayotganda berilgan o’tkazish chastota kengligi ichida bo’lgan signallarni o’tkazmaydi
+====
+Bu turdagi filtr chastotasi aniqlangan qiymatdan yuqori bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlamaydi
+====
+Bu turdagi filtr chastotasi aniqlangan qiymatdan past bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlamaydi
+
+
+
+
++++++
+
+
+
+
+Signallarga raqamli ishlov berish jarayonlarida teskari jarayonlar nimani ifodalaydi?
+====
+#Signalning sinusoidalar bo‘yicha sintezi
+====
+Davriy signallarni  turi
+====
+Chastotali signallar
+====
+Karrali chastotalar
+
+
+
+
++++++
+
+
+
+Diskret signal qanday bo'ladi?
+====
+#uzlukli holda
+====
+davriy impulsli
+====
+uzluksiz
+====
+raqamli
+
+
+
+
++++++
+
+
+
+
+A punktidan B punktiga xabarni uzatish uchun qo’llanuvchi qurilmalar yig’indisiga nima deb ataladi?
+====
+# aloqa tizimi;
+====
+aloqa kanali;
+====
+modulyator;
+====
+uzatgich;
+
+
+
+
++++++
+
+
+
+
+Modulyatsiya deb, qanday jarayonga aytiladi?
+====
+# yuqori chastotali tashuvchi tebranishning amрlitudasi, chastotasi yoki fazasining boshqaruv-chi tebranishning oniy qiymatlarini o’zgarish qonuniga mos ravishda o’zgarishi;
+====
+yuqori chastotali tashuvchi tebranishning рarametr ini boshqaruvchi рast chastotali signalning amрlitudasi, chastotasi yoki fazasining o’zgarish qonuniga mos ravishda o’zgarishi;
+====
+рast chastotali tashuvchi tebranishning рarametr ini boshqaruvchi yuqori chastotali signalning oniy qiymatlarini o’zgarish qonuniga mos ravishda o’zgarishi;
+====
+рast chastotali tashuvchi tebranishning рarametr ini boshqaruvchi yuqori chastotali signalning oniy qiymatlarini o’zgarish qonuniga mos ravishda o’zgarishi;
+
+
+
+
++++++
+
+
+
+
+Aloqa tizimining qaysi bo’g’inida shovqinlar signalga eng katta tahsir qiladi?
+====
+# uzatish muhitida;
+====
+kodlash muhitida;
+====
+modulyatorda;
+====
+demodulyator;
+
+
+
+
++++++
+
+
+
+Elektr to'k tebranishning fazasi bu  ………….. ni  bildiradi?
+====
+# burchak;
+====
+quvvat;
+====
+indeks;
+====
+chastota;
+
+
+
+
++++++
+
+
+
+Amрlituda modulyatoridagi asosiy o’zgarish bu-?
+====
+# yuqori chastotali tashuvchini amрlitudasini o’zgarishi;
+====
+tashuvchi va boshqaruvchi signallarni amрlitudasini ko’ayishi (kuchaytirilishi);
+====
+tashuvchi yuqori chastotali tebranishning amрlitudasini kamayishi;
+====
+kirish signalini filtrlash;
+
+
+
+
++++++
+
+
+
+
+High Pass Filtr uchun to’g’ri ta’rif berilgan qatorni toping.
+====
+#Chastotasi aniqlangan qiymatdan baland bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlaydi.
+====
+Chastotasi aniqlangan qiymatdan past bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlaydi.
+====
+Chastotasi aniqlangan qiymatdan baland bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlamaydi
+====
+To’g’ri javob yo’q
+
+
+
+
++++++
+
+
+
+
+Analog signallar ....
+====
+#vaqt o'tishi bilan doimiy ravishda o'zgarib turadi
+====
+"0" va "1" nollarning ketma-ketliklaridan iborat
+====
+qadamlar (diskret) o'zgarishi
+====
+faqat chastota domenida mavjud
+
+
+
+
++++++
+
+
+
+Signallarga raqamli ishlov berishda Korrelyatsiya jarayonining necha xil shakli mavjud?
+====
+#2
+====
+5
+====
+6
+====
+4
+
+
+
+
++++++
+
+
+
+Raqamli signal protsessorlari qanday sinf protsessorlari hisoblanadi?
+====
+#keladigan analogli signallarning raqamli qayta ishlanishiga yo’naltirilgan maxsus mikroprotsessorlar sinfi
+====
+keladigan analogli signallarning raqamli qayta ishlanishiga yo’naltirilgan maxsus tranzistorlar sinfi
+====
+keladigan analogli signallarning raqamli qayta ishlanishiga yo’naltirilgan maxsus triggerlar sinfi
+====
+keladigan analogli signallarning raqamli qayta ishlanishiga yo’naltirilmagan maxsus mikroprotsessorlar sinfi
+
+
+
+
++++++
+
+
+
+
+Qanday signallar davriy signal hisoblanadi?
+====
+#Ma’lum vaqt o’tishi bilan takrorlanadigan signal
+====
+Ma’lum vaqt o’tishi bilan takrorlanmaydigan signal
+====
+Ma’lum vaqt o’tmasligi bilan takrorlanadigan signal
+====
+Ma’lum vaqt o’tmaslgi bilan takrorlanmaydigan signal
+
+
+
+
++++++
+
+
+
+Real vaqt tizimlari bu....?
+====
+#boshqaruv paytida tashqi ta’sirlarga javob berishga ulguradigan tizimlar
+====
+boshqariladigan har qanday tizimlar
+====
+To’g’ri javob yo’q
+====
+kompleks tizimlarning barchasi
+
+
+
+
++++++
+
+
+
+
+Signalni diskretlash nima?
+====
+#signalni vaqt o’qi bo’yicha bo’laklash
+====
+signalni vaqt o’qi bo’yicha uzatish
+====
+signalni vaqt o’qi bo’yicha qabul qilish
+====
+signalni vaqt o’qi bo’yicha kodlash
+
+
+
+
++++++
+
+
+
+Signalni kvantlash nima?
+====
+#signalni amplituda o’qi bo’yicha bo’laklash
+====
+signalni amplituda o’qi bo’yicha uzatish
+====
+signalni Z o’qi bo’yicha perpendikulyar
+====
+signalni qabul qilish
+
+
+
+
++++++
+
+
+
+Real vaqt tizimlari uchun to‘g‘ri bo‘lgan javobni ko‘rsating.
+====
+#boshqaruv paytida tashqi ta'sirlarga javob berishga ulguradigan tizimlar
+====
+boshqariladigan xar qanday tizimlar
+====
+kompleks tizimlarning barchasi
+====
+To'g'ri javob yo'q
+
+
+
+
++++++
+
+
+
+Signal protsessori ishlab chiqaradigan dunyoda yetakchi kompaniya?
+====
+#Analog Devices
+====
+Microsoft
+====
+IBM
+====
+Microsystem Sun
+
+
+
+
++++++
+
+
+
+QNX operatsion tizimi operatsion tizimi qachon ishlab chiqilgan?
+====
+#1982
+====
+1984
+====
+1986
+====
+1970
+
+
+
+
++++++
+
+
+
+
+Aloqa tizimi deb…………… aytiladi.
+====
+#xabar manbasi va iste'molchi o‘rtasidagi xohlagan ikkita nuqta orasidagi texnik qurilmalar to‘plamiga
+====
+xabarni fazoniy bir nuqtasidan ikkinchi nuqtasiga uzatish uchun xabarni biror bir fizik jarayonga yuklashimiz ya'ni uni signalga aylantirishimiz
+====
+bu xar xil fizik jarayonlar, jismlar, tarixiy va kundalik xodisalar to‘g‘risidagi ma'lumotga
+====
+uzatish uchun uni ma'lum bir shaklga keltirish lozim tekst, jadval, grafik, rasm, xarakatdagi tasvir, va boshqalar
+
+
+
+
++++++
+
+
+
+
+Telefon signali (ovoz) spektr kengligi qancha ?
+====
+#300 Hz ÷ 3400 Hz
+====
+300 Hz ÷ 3000 Hz
+====
+300 Hz ÷ 3800 Hz
+====
+300 Hz ÷ 400 Hz
+
+
+
+
++++++
+
+
+
+1KHz chastota necha Hz chastota bo’ladi?
+====
+#1000
+====
+1024
+====
+1050
+====
+1100
+
+
+
+
++++++
+
+
+
+
+Mushaklardan olinadigan biosignallar qanday signallar turiga mansub?
+====
+#Elektromiografiya signali
+====
+Elektrokardiografiya signali
+====
+Ensofologramma signali
+====
+Nutq signali
+
+
+
+
++++++
+
+
+
+Miyadan olinadigan signallar qanday signallar turiga kiradi?
+====
+#Ensofologramma signali
+====
+Elektromiografiya signali
+====
+Elektrokardiografiya signali
+====
+Nutq signali
+
+
+
+
+
++++++
+
+
+
+Spektral o’zgartirish algoritmlari mavjud qatorni aniqlang:
+====
+#DCT, FFT, Haar, Adamar
+====
+Hamming
+====
+Hanning
+====
+To’g’ri javob yo’q
+
+
+
+
++++++
+
+
+
+
+Signallarni qayta ishlashda analog signallarni raqamli signalga aylantirishning asosiy amallari qaysilar?
+====
+#Diskretlash,  kvantlash va Kodlash
+====
+Diskretlash
+====
+Kvantlash va Kodlash
+====
+Kodlash
+
+
+
+
+
++++++
+
+
+
+
+Raqamli malumotlar qanday qiymatlarni qabul qiladi:?
+====
+# faqat diskret qiymatlarni qabul qiladi;
+====
+Qandaydir diapazondan uzluksiz qiymatlarni;
+====
+Raqamli qiymatlarni qabul qilmaydi;
+====
+0 dan 9 gacha qiymatlarni qabul qiladi;
+
+
+
+
++++++
+
+
+
+
+Nutqiy signal tarkibidagi so'zlashuv, bo'g'in yoki fonemalar orasidagi chegaralarni aniqlash jarayoni nima deb ataladi?
+====
+#Nutq signalini segmentlash
+====
+Nutq signalini kvantlash
+====
+Nutq signalini diskretlash
+====
+Nutq signalini yaxlitlash
+
+
+
+
++++++
+
+
+
+
+Signallarni qayta ishlash jarayonlarida analog raqamli o’zgartirish jarayoni tarkibiga qaysi amallar kiradi?
+====
+#Diskretlash,kvantlash,kodlash
+====
+Diskretlash, segmentlash, filtrlash
+====
+Kvantlash,kodlash, segmentlash
+====
+Kvantlash
+
+
+
+
++++++
+
+
+
+Elektromiografiya signallari qanday signal?
+====
+#Biosignal
+====
+Nutq signali
+====
+Akustik signal
+====
+Sinusoid signal
+
+
+
+
++++++
+
+
+
+
+Elektrokardiografiya signallari qanday signal?
+====
+#Biosignal
+====
+Nutq signali
+====
+Akustik signal
+====
+Sinusoid signal
+
+
+
+
++++++
+
+
+
+
+Elektroensofologramma signallari qanday signal?
+====
+#Biosignal
+====
+Nutq signali
+====
+Akustik signal
+====
+Sinusoid signal
+
+
+
+
++++++
+
+
+
+
+Quyidagi formatlardan qaysi biri audio signallariga mansub?
+====
+#wav, mp3, ogg
+====
+c3d, txt
+====
+mp4, max, dll
+====
+To’g’ri javob yo’q
+
+
+
+
++++++
+
+
+
+Audio signallarining turlari to‘g‘ri keltirilgan javobni aniqlang
+====
+#Mono va stereo
+====
+3d,7d
+====
+Mp3,wav
+====
+Ogg,aac
+
+
+
+
++++++
+
+
+
+
+Mono turidagi audio signallar qanday o’lchamda bo’ladi ?
+====
+#1 kanalli
+====
+2 kanalli
+====
+3 kanalli
+====
+4 kanalli
+
+
+
+
++++++
+
+
+
+
+Stereo turidagi audio signallar qanday o’lchamda bo’ladi ?
+====
+#2 kanalli
+====
+1 kanalli
+====
+3 kanalli
+====
+4 kanalli
+
+
+
+
++++++
+
+
+
+Inson qulog‘i eshita oladigan tovush chastotalari oraliqlarini belgilang?
+====
+#20-20000 Hz
+====
+20 kHz-20MHz
+====
+20 Hz dan past
+====
+20 mHz – 20 kHz
+
+
+
+
++++++
+
+
+
+Signalni kvatlash qaysi o’q bo’yicha amalga oshiriladi?
+====
+#amplituda
+====
+vaqt
+====
+chastota
+====
+quvvat
+
+
+
++++++
+
+
+
+Turli turdagi signallarni turli shovqinlardan, halaqitlardan tozalash qanday jarayon?
+====
+#Filtrlash
+====
+Segmentlash
+====
+Korelyatsiyalash
+====
+Aproksimatsiyalash
+
+
+
+
++++++
+
+
+
+Signallarni bir biriga mosligini tekshirish qanday jarayon?
+====
+#Korrelyatsiyalash
+====
+Segmentlash
+====
+Filtrlash
+====
+Interpolyatsiyalash
+
+
+
+
++++++
+
+
+
+Yurak mushagidan olinadigan signal qanday signal turiga kiradi?
+====
+#Elektrokardiogramma signali
+====
+Elektromiografiya signali
+====
+Ensofologramma signali
+====
+Nutq signali
+
+
+
+
++++++
+
+
+
+Tabiatda uchraydigan signallar …. turlarga bo’linadi.
+====
+#Vaqt bo’yicha o’zgaradigan va o’zgarmaydigan
+====
+Diskret va raqamli
+====
+Spektral ishlov berilgan va berilmagan
+====
+Svyortyka qilingan va qilinmagan
+
+
+
+
++++++
+
+
+
+
+Signallar Bul algebrasida qanday ifodalanadi?
+====
+#0 va 1 orqali
+====
+0-7 orqali
+====
+0-10 orqali
+====
+0-15 orqali
+
+
+
+
++++++
+
+
+
+Korrelyatsiya jarayoni nechta shakli mavjud?
+====
+#2
+====
+5
+====
+7
+====
+4
+
+
+
+
++++++
+
+
+
+Oddiy raqamli signal protsessorlari tizimi quyidagilardan iborat.
+====
+#DSP, xotira, ADC, DAC va aloqa portlari
+====
+mikroprotsessor va xotira
+====
+mikroprotsessor, ADC va DAC
+====
+mikroprotsessor va yordamchi ombor
+
+
+
+
++++++
+
+
+
+Nutq signallari qanday signal?
+====
+#Biosignal
+====
+O'zgarmas signal
+====
+tangensial signal
+====
+Sinusoid signal
+
+
+
+
++++++
+
+
+
+
+Diskretlash chastotasi aniqlash qaysi teorema asosida olingan.
+====
+#Kotelnikov
+====
+Nuyton
+====
+Filips
+====
+Nobel
+
+
+
+Millimetrli diapazonga qaysi to‘lqin uzunliklari kiradi?
+====
+# 10...1 mm
+====
+10... 1 m
+====
+1... 0,1 m
+====
+10... 1 sm
+
++++++
+
+ Axborotlarni diskret ko’rinishida uzatish nima deyiladi?
+====
+# Kodlash
+====
+Multipleksorlash
+====
+Arxivlash
+====
+Deshifrlash
+
+
++++++
+
+
+– Axborotlarnin kodlash turlari.
+====
+# NRZ, AMI, 2B1Q
+====
+SSD, AMD, TCP
+====
+UDP, TSR
+====
+TCP, NRZ, AMD
+
+
++++++
+
+IEEE 802.11a satandarti uchun signalni modulyatsiyalash usuli sifatida qaday modulyatsiyalash turi ishlatiladi:
+====
+#OFDM
+====
+SQPSK
+====
+MSK
+====
+PSK
+
++++++
+
+Modulyatorga nechta signal beriladi?
+====
+#2 ta signal beriladi 
+====
+1 ta signal beriladi
+====
+3 ta signal beriladi
+====
+4 ta signal beriladi
+
++++++
+
+Modulatsiya tezligining o‘lchov birligi nimaga teng?
+====
+# Bod         ;
+====
+Bit/s    ;
+====
+Bit        ;
+====
+kBit;
+
++++++
+
+512 bit necha baytga teng?
+====
+# 64 bayt;
+====
+128 bayt;
+====
+256 bayt         ;
+====
+32 bayt;
+
++++++
+
+– 2 kbit necha bit bo‘ladi?
+====
+#2048 bit   ;
+====
+1024 bit;
+====
+512 bit;
+====
+256 bit;
+
++++++
+
+– 256 bitga 64 baytni qo‘shsangiz  necha bayt bo‘ladi?
+====
+# 96 bayt          ;
+====
+128 bayt;
+====
+104 bayt        ;
+====
+256 bayt      ;
+
++++++
+
+– 1 kbit ga 64 baytni  qo‘shsangiz  necha bayt bo‘ladi?
+====
+# 192 bayt  ;
+====
+164 bayt;
+====
+128 bayt;
+====
+212 bayt;
+
++++++
+
+Telefon signallari standart spektr kengligini aniqlang
+====
+0 – 100 Gs
+====
+# 300 – 3400 Gs
+====
+50 – 6 000 000 Gs
+====
+20 – 20 000 Gs
+
++++++
+
+Televizion signallar standart spektr kengligini aniqlang
+====
+300 – 3400 Gs
+====
+# 50 – 6 000 000 Gs
+====
+0 – 100 Gs
+====
+300 – 3400 Gs
+
++++++
+
+Kilometrli ( uzun to‘lqinlar) diapazonga qaysi to‘lqin uzunliklari kiradi.
+====
+#10... 1 km
+====
+100... 10 km
+====
+1000... 100 m
+====
+100...10 m
+
++++++
+
+Diskretlash jarayoni qanday qonuniyatga ko‘ra amalga oshiriladi?
+====
+Pifagor teoremasiga ko‘ra
+====
+# Kotelnikov teoremasiga ko‘ra
+====
+Faradey qonuniga ko‘ra
+====
+Kulon qonuniga ko‘ra
+
++++++
+
+Sinxronizatsiyaning qanday turlari mavjud?
+====
+Taktli sinxronizatsiya
+====
+# Barcha javoblar to‘g‘ri
+====
+Siklli sinxronizatsiya
+====
+Yuqori siklli sinxronizatsiya
+
++++++
+
+IKM signallari asosiy raqamli kanali necha razryaddan iborat?
+====
+12
+====
+# 8
+====
+16
+====
+2
+
++++++
+
+IKM signallari asosiy raqamli kanali tezligi qanday?
+====
+32 kbit/s
+====
+# 64 kbit/s
+====
+48 kbit/s
+====
+128 kbit/s
+
++++++
+
+E1 birlamchi raqamli oqim tezligi qanday?
+====
+1024 kbit/s
+====
+# 2048 kbit/s
+====
+512 kbit/s
+====
+4096 kbit/s
+
++++++
+
+Tebranish qanday parametrga ega ? 
+====
+#Fazasiga
+====
+Kuchiga
+====
+tekisligiga
+====
+notekisligiga
+
++++++
+
+Tebranish qanday qurilmada sodir bo’ladi ? 
+====
+#Rezonatorda 
+====
+Bezonatorda
+====
+Tenzonatorda
+====
+Azonatorda
+
++++++
+
+Tebranish qanday parametrga ega ? 
+====
+#chastotaga
+====
+yonalishga
+====
+tekisligiga
+====
+qiyaligiga
+
++++++
+
+O’zaro ulangan va ma’lum vazifani bajaradigan radiotexnik elementlar to’plami 
+====
+#Elektr zanjiri
+====
+Elektr tuguni
+====
+Elektr tarqatmasi
+====
+Elektr yurutuvchi kuch
+
++++++
+
+Kanallarni kodli ajratish standarti ? 
+====
+#CDMA
+====
+AMPS
+====
+GSM
+====
+JNC
+
++++++
+
+Tebranish qanday parametrga ega ? 
+====
+#amplituda
+====
+yonalishga
+====
+tekisligiga
+====
+notekisligiga
+
++++++
+
+Nochiziqli elementning VATi  qanday ko’rinishda bo’ladi ?
+====
+#Egri chiziqli
+====
+Aylana
+====
+To’g’ri
+====
+Tort burchak
+
++++++
+
+Gektometrli ( o‘rta to‘lqinlar) diapazonga qaysi to‘lqin uzunliklari kiradi.
+====
+#1000... 100 m
+====
+100... 10 km
+====
+100...10 m
+====
+10... 1 km
+
++++++
+Miriametrli (o‘ta uzun to‘lqinlar) diapazonga qaysi to‘lqin uzunliklari kiradi
+====
+#100... 10 km
+====
+10... 1 km
+====
+1000... 100 m
+====
+100...10 m
+
++++++
+Signal deb nimaga aytiladi?
+====
+Har qanday ovozli hodisa
+====
+# Muhitdagi haqiqiy o‘zgarishda uzatiladigan axborotlarning aks etishi yoki axborot (xabar) tashuvchi to‘lqin
+ ====
+Tovushga aytiladi
+====
+To‘g‘ri javoblar yo‘q
+
++++++
+
+Uzatish tizimi tushunchasining to‘g‘ri tarifini keltiring
+====
+Ma’lumotlarni uzatuvchi qurilmalar to‘plami
+====
+# Uzatuvchi kanalning shakllanishini ta’minlovchi texnik qurilmalar yig‘indisi
+====
+To‘g‘ri javob mavjud emas
+====
+Ma’lumotlarni o‘zgartirib uzatuvchi qurilma
+
++++++
+
+N  kanalli uzatish tizimi to‘g‘ri tarifini keltiring
+====
+N manbadan N talabgorga  N ta aloqa zanjiri orqali bir vaqtda bir-biriga bog‘liq bo‘lmagan holda xabarlarni uzatishni ta’minlovchi texnik qurilmalar yig‘indisi
+====
+# N manbadan N talabgorga bitta aloqa zanjiri orqali bir vaqtda bir-biriga bog‘liq bo‘lmagan holda xabarlarni uzatishni ta’minlovchi texnik qurilmalar yig‘indisi
+====
+N manbadan N talabgorga bitta aloqa zanjiri orqali bir vaqtda bir-biriga bog‘liq holda xabarlarni uzatishni ta’minlovchi texnik qurilmalar yig‘indisi
+====
+N manbadan N talabgorga  N ta aloqa zanjiri orqali bir vaqtda bir-biriga bog‘liq holda xabarlarni uzatishni ta’minlovchi texnik qurilmalar yig‘indisi
+
++++++
+
+Signallarning uzatish sathlari o‘lchov birligini aniqlang.
+====
+Desibel
+====
+# Desibel, Neper 
+====
+Neper
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Signalning uzatish nisbiy sathi tarifini keltiring.
+====
+700 Om qarshilikda olingan sath qiymati
+====
+# 600 Om qarshilikda olingan sath qiymati
+====
+800 Om qarshilikda olingan sath qiymati
+====
+500 Om qarshilikdagi olingan sath qiymati
+
++++++
+
+Signalning dinamik diapazoni deb nimaga aytiladi?
+====
+signalning eng kichik oniy quvvati (Pmin)ni eng katta oniy quvvati (Pmax)ga bo‘lgan nisbati
+====
+# signalning eng katta oniy quvvati (Pmax)ni, eng kichik oniy quvvati (Pmin)ga bo‘lgan nisbati
+====
+signalning eng katta oniy quvvati (Pmax) va eng kichik oniy quvvati (Pmin) farqi
+====
+signalning eng katta oniy quvvati (Pmax) va eng kichik oniy quvvati (Pmin) yig‘indisi
+
++++++
+
+Birlamchi signallarni aloqa liniyalari orqali uzatish qanday amalga oshiriladi?
+====
+Birlamchi signallarni xabarga aylantirish orqali
+====
+# Tashuvchi signallar parametrlarini birlamchi signalning o‘zgarish qonuniyatiga ko‘ra o‘zgartirish orqali
+====
+Birlamchi signallar parametrlarini tashuvchi signal o‘zgarish qonuniyatiga ko‘ra o‘zgartirish orqali
+====
+Birlamchi signallarni modulyatsiya qilish orqali
+
++++++
+
+Modulyatsiya deb nimaga aytiladi?
+====
+Birlamchi signal parametrlarini tashuvchi signal o‘zgarish qonuniyatiga ko‘ra o‘zgartirish
+====
+# Tashuvchi signal parametrlarini birlamchi signal o‘zgarish konuniyatiga ko‘ra o‘zgartirish
+====
+Xabardan birlamchi signal hosil qilish
+====
+Birlamchi signaldan xabar hosil qilish
+
++++++
+
+Eng ko‘p sonli kanal hosil qilish mumkin bo‘lgan simli o‘tkazgich turini aniqlang
+====
+Simmetrik kabel
+====
+# Optik tolali kabel
+====
+Koaksial kabel
+====
+Ochiq simlar
+
++++++
+
+Tashqi muhit ta’siri (shovqinlar, elektromagnit maydon, ob-havo o‘zgarishi)ga eng ta’sirchan bo‘lgan simli o‘tkazgich turini aniqlang.
+====
+Koaksial kabel
+====
+# Ochiq simlar
+====
+Optik tolali kabel
+====
+Simmetrik kabel
+
++++++
+
+Qaysi simli o‘tkazgich tashqi muhit ta’siri (shovqinlar, elektromagnit maydon, ob-havo o‘zgarishi)ga eng chidamli?
+====
+Koaksial kabel
+====
+# Optik tolali kabel 
+====
+Ochiq simlar
+====
+Simmetrik kabel
+
++++++
+
+Kanallari chastota bo‘yicha ajratilgan tizimlarda birlamchi signallarni tashuvchi signallar sifatida qanday signallar qo‘llaniladi?
+====
+Impulslar ketma-ketligi
+====
+# Yuqori chastotali uzluksiz signallar
+====
+Amplituda
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Amplituda, chastota va faza modulyatsiyasi tushunchalari qanday tizimlar uchun o‘rinli?
+====
+Kanallari vaqt bo‘yicha ajratilgan tizimlar uchun
+====
+# Kanallari chastota bo‘yicha ajratilgan tizimlar uchun
+====
+Kodlangan axborotlar uchun
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Qaysi modulyatsiya turi eng kichik spektr oralig‘iga ega?
+====
+Faza modulyatsiya
+====
+# Amplituda modulyatsiyasi
+====
+Chastota modulyatsiya
+====
+Burchak modulyatsiyasi
+
++++++
+
+Kilometrli ( uzun to‘lqinlar) diapazonga qaysi to‘lqin uzunliklari kiradi.
+====
+# 10... 1 km
+====
+100... 10 km
+====
+1000... 100 m
+====
+100...10 m
+
++++++
+
+Quyidagi iboralardan qaysi biri noto‘g‘ri?
+====
+Har qanday davriy signalni sinusoidal signallar ko‘rinishida tasvirlash mumkin.
+====
+# Diskret signallar impuls uzunliklari bu signallar davriga teng
+====
+Tebranish davri T va tebranish chastotasi w bo‘lsa,   w=1/T tenglik o‘rinli
+====
+Uzluksiz signallarni diskret signallarga aylantirish mumkin
+
++++++
+
+Kanallari vaqt bo‘yicha ajratilgan tizimlarda birlamchi signallarni tashuvchi signallar sifatida qanday signallar qo‘llaniladi?
+====
+Yuqori chastotali uzluksiz signallar
+====
+# Impulslar ketma-ketligi
+====
+faza
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Aloqa tizimi filtrining vazifasi nimadan iborat?
+====
+Signallarni keraksiz shovqinlardan tozalovchi qurilma
+====
+# Belgilangan o‘tkazish oralig‘idagi signallarni o‘tkazuvchi qurilma
+====
+Signallarni shaklini o‘zgartiruvchi qurilma
+====
+Signalni xatoliklardan himoyalovchi qurilma
+
++++++
+
+Amplituda-impulsli modulyatsiya signalning qaysi o‘zgartirish jarayonidan keyin hosil qilinadi?
+====
+Kvantlash jarayonidan keyin
+====
+# Diskretizatsiya jarayonidan keyin
+====
+Kodlash jarayonidan keyin
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Diskretizatsiya jarayoni qanday qurilmalarda amalga oshiriladi?
+====
+Koder va dekoderlarda
+====
+# Elektron kalitlarda
+====
+Xabarni birlamchi signalga aylantiruvchi qurilmalarda
+====
+Birlashtiruvchi qurilmalarda
+
++++++
+
+Kotelnikov teoremasining ma’nosini keltiring
+====
+Xar qanday uzluksiz signalni impulslar ketma-ketligi ko‘rinishiga aylantirish mumkin, agarda bu impulslarning diskretizatsiya chastotasi fd  birlamchi uzluksiz signal spektr kengligi f b ikkilanmasidan katta bo‘lmasa : fd≤2 f
+====
+# Xar qanday uzluksiz signalni impulslar ketma-ketligi ko‘rinishiga aylantirish mumkin, agarda bu impulslarning diskretizatsiya chastotasi fd  birlamchi uzluksiz signal spektr kengligi f b ikkilanmasidan kichik bo‘lmasa : fd≥2 f
+====
+Xar qanday uzluksiz signalni impulslar ketma-ketligi ko‘rinishiga aylantirish mumkin, agarda bu impulslarning diskretizatsiya chastotasi fd  birlamchi uzluksiz signal spektr kengligi f b  teng bo‘lsa : fd= f b
+====
+Xar qanday uzluksiz signalni impulslar ketma-ketligi ko‘rinishiga aylantirish mumkin, agarda bu impulslarning diskretizatsiya chastotasi fd  ikkilanmasi birlamchi uzluksiz signal spektr kengligi f b  dan kichik bo‘lmasa : 2fd≥ f b
+
++++++
+
+IKM signallarini hosil qilish jarayonlari ketma-ketligining to‘g‘ri variantini keltiring
+====
+Kvantlash→kodlash→diskretlash
+====
+# Diskretlash→kvantlash→kodlash
+====
+Diskretlash→kodlash→kvantlash
+====
+Kvantlash→diskretlash→kodlash
+
++++++
+
+Gektometrli ( o‘rta to‘lqinlar) diapazonga qaysi to‘lqin uzunliklari kiradi.
+====
+# 1000... 100 m
+====
+100... 10 km
+====
+100...10 m
+====
+10... 1 km
+
++++++
+
+Qoldiq so‘nish deb nimaga aytiladi?
+====
+Berilgan chastotadagibarcha kuchayishlar (S) yig‘indisi va barcha so‘nishlar (a) yig‘indisining qo‘shilmasi yoki kanal kirishi va chiqishidagi uzatish farqlari yig‘indisi orqali aniqlanuvchi ishchi so‘nish
+====
+# Berilgan chastotadagi barcha so‘nishlar (a) yig‘indisidan, barcha kuchayishlar (S) yig‘indisining ayirmasi yoki kanal kirishi va chiqishidagi uzatish sathlari farqi orqali aniqlanuvchi ishchi so‘nish
+====
+Berilgan chastotadagi barcha so‘nishlar (a) yig‘indisining  barcha kuchayishlar (S) yig‘indisiga nisbati yoki kanal kirishidagi uzatish sathining kanal chiqishidagi uzatish sathiga nisbati orqali aniqlanuvchi ishchi so‘nish
+====
+Berilgan chastotadagi barcha so‘nishlar (a) yig‘indisining  barcha kuchayishlar (S) yig‘indisiga ko‘paytmasi yoki kanal kirishidagi uzatish sathining kanal chiqishidagi uzatish sathiga ko‘paytmasi orqali aniqlanuvchi ishchi so‘nish
+
++++++
+
+Kanalning amplituda – chastotaviy xarakteristikasi deb nimaga aytiladi?
+====
+Amplitudaning chastotaga bog‘liqligi
+====
+# Qoldiq so‘nishning chastotaga bog‘liqligi
+====
+Amplituda va chastotaning vaqtga bog‘liqligi
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Qoldiq so‘nish qanday chastotada mo‘tadillashtiriladi?
+====
+1000 Gs
+====
+# 800 Gs
+====
+900 Gs
+====
+700 Gs
+
++++++
+
+Kanalning faza-chastotaviy xarakteristikasi deb nimaga aytiladi?
+====
+Faza va chastotaning vaqtga bog‘liqligi
+====
+# Fazalar surilishining chastotaga bog‘liqligi
+====
+Faza va chastotaning nisbati
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Ikki o‘tkazgichli liniyalardan to‘rt o‘tkazgichli liniyalarga o‘tish va aksincha o‘tish qanday qurilmalar orqali amalga oshiriladi?
+====
+To‘g‘rilagichlar
+====
+# Differensial qurilmalar
+====
+Kuchaytirgichlar
+====
+Birlashtiruvchi qurilmalar
+
++++++
+
+Kanallari chastota bo‘yicha ajratilgan tizimlar qurilmalari qaysi javobda to‘g‘ri keltirilgan?
+====
+To‘g‘ri javob keltirilmagan.
+====
+# K-60, KNK-12, V-3-3
+====
+Sopka, Ortix, Sonata-2
+====
+IKM-15, IKM-30
+
++++++
+
+Telefon signallari uchun diskretizatsiya chastotasi nechaga teng?
+====
+2048 kGs
+====
+# 8 kGs
+====
+64 kGs
+====
+256 kGs
+
++++++
+
+Qaysi keltirilgan ibora to‘g‘ri?
+====
+AIM signal diskretizatsiya jarayonidan so‘ng xosil bo‘lgan signaldir.
+====
+# AIM signal diskretizatsiya jarayonidan so‘ng xosil bo‘lgan signaldir.
+====
+AIM signal AIM-1 va AIM-2 signallardan iborat.
+====
+AIM signal liniyaga uzatilganda signal shakli va amplitudasi buziladi.
+
++++++
+
+Dekametrli ( qisqa to‘lqinlar) diapazonga qaysi to‘lqin uzunliklari kiradi.
+====
+# 100...10 m
+====
+100... 10 km
+====
+1000... 100 m
+====
+10... 1 km
+
++++++
+
+Qaysi keltirilgan ibora to‘g‘ri?
+====
+AIM-1 va AIM-2 signallarning farqi yo‘q.
+====
+# AIM-2 signal AIM -1 signalning amplituda sathini tekislash yo‘li bilan hosil qilinadi.
+====
+AIM-2 signal AIM-1 signalning impuls uzunligini qisqartirish yo‘li bilan hosil qilinadi.
+====
+AIM-2 signalning davri AIM-1 signalning impuls uzunligigiga teng qilib olinadi.
+
++++++
+
+Raqamli uzatish tizimlariga tegishli bo‘lgan quyidagi iboralarning qaysi biri to‘g‘ri?
+====
+Shovqindan himoyalanganligi yuqoriligi.
+====
+# Barcha javoblar to‘g‘ri
+====
+Integral raqamli tarmoqlarni qurish imkoniyatining mavjudligi.
+====
+Xabar va signallarni uzatishdagi yuqori samaradorligi
+
++++++
+
+Kvantlash qadami deb nimaga aytiladi?
+====
+Signalning haqiqiy qiymati va kvantlash qiymati orasidagi farq
+====
+# Ikkita qo‘shni kvantlash sathi orasidagi farq
+====
+Signal qiymati va shovqin qiymati orasidagi farq
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Kvantlash xatoligi deb nimaga aytiladi?
+====
+Ikkita qo‘shni kvantlash sathi orasidagi farq
+====
+# Signalning haqiqiy qiymati va kvantlash qiymati orasidagi farq
+====
+Signal qiymati va shovqin qiymati orasidagi farq
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Kvantlash jarayoni qanday signal ustida amalga oshiriladi?
+====
+Analog signal
+====
+# AIM signal
+====
+IKM signal
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+IKM signalga nisbatan qaysi fikrlar o‘rinli?
+====
+IKM signal raqamli signaldir
+====
+# Barcha javoblar to‘g‘ri
+====
+IKM signal analog signalni diskretizatsiya, kvantlash va kodlash jarayonlari orqali hosil qilinadi
+====
+Aloqa liniyasiga IKM signal  satxining o‘zini emas, balki ikkilik kodlardagi shkala sathining qiymatini uzatish mumkin
+
++++++
+
+IKM  signallari kodli guruhlari (razryadlari) soni nechaga teng?
+====
+64
+====
+# 8
+====
+32
+====
+256
+
++++++
+
+Koderlarda qanday jarayonlar amalga oshiriladi?
+====
+Kodlash
+====
+# Diskretizatsiyalash, kvantlash va kodlash
+====
+Kvantlash va kodlash
+====
+Kvantlash
+
++++++
+
+Tekis kvantlash deb nimaga aytiladi?
+====
+Signalninig amplitudasi o‘zgarmay qolgandagi kvantlanishi
+====
+# Kvantlash qadamlari o‘zgarmas xolatda bo‘lishi
+====
+Signalning chastotasi o‘zgarmay qolgandagi kvantlanishi
+====
+Barcha javoblar to‘g‘ri
+
++++++
+
+Sinxronizatsiya nima uchun kerak?
+====
+So‘zlashuv va boshqaruv kanallarnini uzatish va qabul qilish tomonida mos ravishda taqsimlash uchun
+====
+# Barcha javoblar to‘g‘ri
+====
+Uzatish va qabul qilish tomonlarining mos ravishda ishlashini taminlash uchun
+====
+Signallar tezliklarini moslash uchun
+
++++++
+
+Notekis kvantlash qanday usullar orqali amalga oshiriladi?
+====
+Kodlash va dekodlash jarayonida koder va dekoderning ishlash algoritmiga ta’sir ko‘rsatish yo‘li bilan
+====
+# Uzatish tomonda signal diapazonini toraytirish va qabul qilish tomonida kengaytirish yo‘li bilan, Kodlash va dekodlash jarayonida koder va dekoderning ishlash algoritmiga ta’sir ko‘rsatish yo‘li bilan
+====
+Uzatish tomonda signal diapazonini toraytirish va qabul qilish tomonida kengaytirish yo‘li bilan
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Tekis kvantlash qanday kamchiliklarga ega?
+====
+Shovqinlardan yetarli darajada himoyalanishini ta’minlash uchun kodli razryadlar soni yuqori bo‘lishi kerak
+====
+# Shovqindan himoyalanganlik signallar sathi qiymatiga bog‘liq, Shovqinlardan yetarli darajada himoyalanishini ta’minlash uchun kodli razryadlar soni yuqori bo‘lishi kerak
+====
+Shovqindan himoyalanganlik signallar sathi qiymatiga bog‘liq
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Taktli sinxronizatsiya qanday maqsadda qo‘llaniladi?
+====
+Qabul qilish tomonida analog signallar otset qiymatlarini uzatish tomoniga mos holda kerakli kanallarga taqsimlanishini ta’minlash
+====
+# Oxirgi stnsiyalarda signallar tezliklarini moslash uchun 
+====
+Boshqaruv va o‘zaro ta’sir signallarini mos kanallarga taqsimlash uchun
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Siklli sinxronizatsiya qanday maqsadda qo‘llaniladi?
+====
+Oxirgi stnsiyalarda signallar tezliklarini moslash uchun
+====
+# Qabul qilish tomonida analog signallar otset qiymatlarini uzatish tomoniga mos holda kerakli kanallarga taqsimlanishini ta’minlash
+
+====
+Boshqaruv va o‘zaro ta’sir signallarini mos kanallarga taqsimlash uchun
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Yuqori siklli sinxronizatsiya qanday maqsadda qo‘llaniladi?
+====
+Oxirgi stnsiyalarda signallar tezliklarini moslash uchun
+====
+# Boshqaruv va o‘zaro ta’sir signallarini mos kanallarga taqsimlash uchun
+====
+Qabul qilish tomonida analog signallar otset qiymatlarini uzatish tomoniga mos holda kerakli kanallarga taqsimlanishini ta’minlash
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+Generator qurilmasining vazifasi nimadan iborat?
+====
+Uzatish va qabul qilish tomonlari oxirgi qurilmalarini sinxron ishlashini ta’minlash
+====
+# Signallarni qayta ishlash qurilmalari funksional qismlarining ishlashi uchun impulslar ketma-ketligini hosil qilish, Uzatish va qabul qilish tomonlari oxirgi qurilmalarini sinxron ishlashini ta’minlash
+====
+Signallarni qayta ishlash qurilmalari funksional qismlarining ishlashi uchun impulslar ketma-ketligini hosil qilish
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+IKM li raqamli uzatish tizimlarida qo‘llaniladigan qanday koderlar turini bilasiz?
+====
+Razryadlarni solishtirish turidagi koderlar
+====
+# Barcha javoblar to‘g‘ri
+====
+Matritsali koderlar
+====
+Hisoblash koderlari
+
++++++
+
+Taktli chastotani ajratuvchi qurilma qanday bloklardan tashkil topgan?
+====
+To‘g‘rilagich va kuchaytirgich
+====
+# Barcha javoblar to‘g‘ri
+====
+Tor oraliqli filtr
+====
+Shakllantiruvchi qurilma
+
++++++
+
+Signal deb nimaga aytiladi?
+====
+Har qanday ovozli hodisa
+====
+# Muhitdagi haqiqiy o‘zgarishda uzatiladigan axborotlarning aks etishi yoki axborot (xabar) tashuvchi to‘lqin
+====
+To‘g‘ri javoblar yo‘q
+====
+Xabarga aytiladi
+
++++++
+
+Uzatish tizimi tushunchasining to‘g‘ri tarifini keltiring
+====
+Ma’lumotlarni uzatuvchi qurilmalar to‘plami
+====
+# Uzatuvchi kanalning shakllanishini ta’minlovchi texnik qurilmalar yig‘indisi
+====
+Ma’lumotlarni o‘zgartirib uzatuvchi qurilma
+====
+To‘g‘ri javob mavjud emas
+
++++++
+
+N  kanalli uzatish tizimi to‘g‘ri tarifini keltiring
+====
+N manbadan N talabgorga  N ta aloqa zanjiri orqali bir vaqtda bir-biriga bog‘liq bo‘lmagan holda xabarlarni uzatishni ta’minlovchi texnik qurilmalar yig‘indisi
+====
+# N manbadan N talabgorga bitta aloqa zanjiri orqali bir vaqtda bir-biriga bog‘liq bo‘lmagan holda xabarlarni uzatishni ta’minlovchi texnik qurilmalar yig‘indisi
+====
+N manbadan N talabgorga bitta aloqa zanjiri orqali bir vaqtda bir-biriga bog‘liq holda xabarlarni uzatishni ta’minlovchi texnik qurilmalar yig‘indisi
+====
+N manbadan N talabgorga  N ta aloqa zanjiri orqali bir vaqtda bir-biriga bog‘liq holda xabarlarni uzatishni ta’minlovchi texnik qurilmalar yig‘indisi
+
++++++
+
+FDMA tizimi qaysi zichlashtirish usulini qo’llaydi?
+====
+#Chastota bo’ycha  zichlashtirish usulini
+====
+Vaqt bo’ycha  zichlashtirish usulini
+====
+Fazo  bo’ycha  zichlashtirish usulini
+====
+kod bo’ycha  zichlashtirish usulini
+
++++++
+
+Chastota modulyatsiyasida ...
+====
+modulyatsiyalovchi signalga proporsional ravishda tashuvchini fazasi o‘zgaradi
+====
+# modulyatsiyalovchi signalga proporsional ravishda tashuvchini chastotasi o‘zgaradi
+====
+modulyatsiyalovchi signalga proporsional ravishda tashuvchini amplitudasi o‘zgaradi	
+====
+modulyatsiyalovchi signalga proporsional ravishda tashuvchini amplitudasi va chastotasi o‘zgaradi
+
++++++
+
+Qanday qurilma yordamida birlamchi signal xabarga aylantiradi
+====
+mikrofon
+====
+# dekoder
+====
+modulyator
+====
+detektor
+
++++++
+
+Amplituda modulyatsiyasida modulyatsiyalovchi signalga proporsional ravishda tashuvchining qaysi parametri o‘zgaradi
+====
+fazasi
+====
+# amplitudasi
+====
+chastotasi
+====
+oniy qiymati
+
++++++
+
+Bitta mintaqali AM modulyatsiyasida modulyatsiyalovchi signalga proporsional ravishda tashuvchining qaysi parametri o‘zgaradi
+====
+chastotasi
+====
+# amplitudasi
+====
+fazasi
+====
+amplitudasi va fazasi
+
++++++
+
+Xalqali modulyator yordamida quyidagi signalni xosil qilish mumkin
+====
+tashuvchisi mavjud amplitudasi modulyatsiyalangan signal
+====
+# tashuvchisi yo‘qotilgan ikki mintaqali amplitudasi modulyatsiyalangan signal
+====
+bitta mintaqali amplitudasi modulyatsiyalangan signal
+====
+tashuvchisi qisman yo‘qotilgan amplitudasi modulyatsiyalangan signal
+
++++++
+
+Qanday detektor yordamida bitta mintaqali tashuvchisi yo‘qotilgan AM signal detektorlana-di
+====
+parametrik element yordamida
+====
+# sinxron detektor yordamida
+====
+kvadratik detektor yordamida
+====
+oddiy diodli detektor yordamida
+
++++++
+
+Chastota modulyatorini statik modulyatsion xarakteristikasi bu -
+====
+modulyator chiqishidagi tashuvchi tebranish amplitudasini siljish kuchlanishiga bog‘liqligi
+====
+# modulyator chiqishidagi tashuvchi tebranish chastotasini siljish kuchlanishiga bog‘liqligi
+====
+modulyator chiqishidagi tashuvchi tebranish fazasini siljish kuchlanishiga bog‘liqligi
+====
+modulyator chiqishidagi tokining 1-chi garmonikasini amplitudasini modulyatorni kirishidagi to‘la siljish kuchlanishiga bog‘liqligi
+
++++++
+
+Tebranishning fazasi bu  ………….. ni  bildiradi.
+====
+#burchak
+====
+quvvat
+====
+indekc
+====
+chastota
+
++++++
+
+Metrli  diapazonga qaysi to‘lqin uzunliklari kiradi?
+====
+# 10... 1 m
+====
+1... 0,1 m
+====
+10... 1 sm
+====
+10...1 mm
+
++++++
+
+Chastota detektorini detektorlash xarakteristikasi bu -
+====
+detektorning chiqishidagi tokning uning kirishidagi modulyatsiyalanmagan tashuvchining amplitudasiga bog‘liqligi
+====
+# detektorning chiqishidagi kuchlanishning uning kirishidagi modulyatsiyalanmagan tashuvchining chastotasiga bog‘liqligi
+====
+detektorning kirishidagi tokning uning kirishidagi modulyatsiyalanmagan tashuvchining chastotasiga bog‘liqligi
+====
+detektorning kirishidagi tokning uning kirishidagi modulyatsiyalanmagan tashuvchining fazasiga bog‘liqligi
+
++++++
+
+Faza detektorini detektorlash xarakteristikasi bu -
+====
+detektorning chiqishidagi tokning uning kirishidagi modulyatsiyalanmagan tashuvchining amplitudasiga bog‘liqligi
+====
+# detektorning chiqishidagi kuchlanishning uning kirishidagi modulyatsiyalanmagan tashuvchining fazasiga bog‘liqligi
+====
+detektorning chiqishidagi kuchlanishning uning kirishidagi modulyatsiyalanmagan tashuvchining chastotasiga bog‘liqligi
+====
+detektorning kirishidagi tokning uning kirishidagi modulyatsiyalanmagan tashuvchining chastotasiga bog‘iqligi
+
++++++
+
+Faza modulyatsiyasida .....
+====
+modulyatsiyalovchi signalga proporsional ravishda tashuvchini faqat amplitudasi o‘zgarada
+====
+# modulyatsiyalovchi signalga proporsio-nal ravishda tashuvchini fazasi o‘zgaradi
+====
+modulyatsiyalovchi signalga proporsional ravishda tashuvchini amplitudasi va chastotasi o‘zgaradi
+====
+modulyatsiyalovchi signalga proporsional ravishda tashuvchini chastotasi o‘zgaradi
+
++++++
+CHastota modulyatsiyasida signalning kaysi parametir o’zgaradi?
+====
+#Modulyatsiyalovchi signalga proporsional ravishda tashuvchini chastotasi o’zgaradi
+====
+Modulyatsiyalovchi signalga proporsional ravishda tashuvchini fazasi o’zgaradi
+====
+Modulyatsiyalovchi signalga proporsional ravishda tashuvchini amplitudasi o’zgaradi
+====
+Modulyatsiyalovchi signalga proporsional ravishda tashuvchini amplitudasi va chastotasi o’zgaradi
+
++++++
+
+Elektromagnit  to’lqinning  to’lqin uzunligining belgisi va birligi?
+====
+#λ, metr
+====
+f, metr 
+====
+c, metr
+====
+x, Gerts
+
++++++
+
+Chastota bu ……..
+====
+#Elektr tokining bir sekund ichidagi  tebranishlsr sonidir
+====
+Elektr tokini ikki sekund ichidagi  tebranishlsr sonidir
+====
+Elektr tokini uch sekund ichidagi  tebranishlsr sonidir
+====
+Elektr tokini bir necha  sekund ichidagi  tebranishlsr sonidir
+
++++++
+
+Modulyatsiya deb, nimaga aytiladi
+====
+#yuqori chastotali tashuvchi tebranishning amplitudasi, chastotasi yoki fazasining boshqaruv-chi tebranishning oniy qiymatlarini o’zgarish qonuniga mos ravishda o’zgarishi
+====
+yuqori chastotali tashuvchi tebranishning parametr ini boshqaruvchi past chastotali signalning amplitudasi, chastotasi yoki fazasining o’zgarish qonuniga mos ravishda o’zgarishi
+====
+past chastotali tashuvchi tebranishning parametr ini boshqaruvchi yuqori chastotali signalning oniy qiymatlarini o’zgarish qonuniga mos ravishda o’zgarishi
+====
+past chastotali tashuvchi tebranishning parametr ini boshqaruvchi yuqori chastotali signalning oniy qiymatlarini o’zgarish qonuniga mos ravishda o’zgarishi
+
++++++
+
+TDMA tizimi qaysi zichlashtirish usulini qo’llaydi?
+====
+#Vaqt bo’ycha  zichlashtirish usulini
+====
+Chastota bo’ycha  zichlashtirish usulini
+====
+Fazo  bo’ycha  zichlashtirish usulini
+====
+kod bo’ycha  zichlashtirish usulini
+
++++++
+
+Tashkil etuvchi chactotalar  to’plami nima deb ataladi ?
+====
+#spektrlar
+====
+spektrialar
+====
+spektrialllar
+====
+spektraskop
+
++++++
+
+Vaqt bo’ycha  zichlashtirish usulini
+====
+#TDMA
+====
+FDMA
+====
+CDMA
+====
+OFDMA
+
++++++
+
+Spekrrlarni qanday ajratiladi?
+====
+#Filtrlar yordamida
+====
+Kuchaytirgichlar yordamida
+====
+Tranzistorlar yordamida
+====
+Qarshiliklar yordamida
+
++++++
+
+Aloqa qurilmasini energiya manbasi nima bo’lishi mumkin
+====
+#To’grilagich, akkamulyator, quyosh va shamol generatorlari
+====
+avtogeneratorlar, 
+====
+bloking-generatorlar
+====
+servomotorlar
+
++++++
+
+Vaqt bo’yicha diskretlangan signaldan uzluksiz signalni qayta tiklash uchun uni quyidagi qurilmadan o’tkazish lozim:
+====
+#ideal past chastotali filtrdan
+====
+koderdan
+====
+dekoderdan
+====
+differentsiatordan
+
++++++
+
+Radioaloqa liniyasi deb nimaga aytiladi?
+====
+#Xavoli yoki xavosiz tarqalish muhiti, uzatgichning chiqishidan qabul qilgichning kirishigacha bo’lgan muhit.
+====
+To’lqin uzatgichli aloqa muhiti, , uzatgichning chiqishidan qabul qilgichning kirishigacha bo’lgan muhit
+====
+Aloqaning kabelli muhiti, uzatgichning chiqishidan qabul qilgichning kirishigacha bo’lgan muhit.
+====
+O’tik tolali aloqa muhiti, uzatgichning chiqishidan qabul qilgichning kirishigacha bo’lgan muhit.
+
++++++
+
+Faza modulyatsiyasida chastota deviatsiyasi ......... bog’liq bo’ladi.
+====
+#modulyatsiyalovchining chastotasiga
+====
+modulyatsiyalovchining fazasiga
+====
+tashuvchining chastotasiga
+====
+tashuvchining fazasiga
+
++++++
+
+Volt amper tavsif deganda …........  tushuniladi
+====
+#vaqt mobaynida radioelementdan o’tayotgan tokning kuchlanishga bog’liklik munosabati  tushuniladi
+====
+vaqt mobaynida radiodan o’tayotgan tokning kuchlanishga bog’liklik munosabati  tushuniladi
+====
+vaqt mobaynida radioelementdan o’tayotgan nurni  kuchlanishga bog’liklik munosabati  tushuniladi
+====
+vaqt mobaynida radioelementdan o’tayotgan issiqlik  tushuniladi
+
++++++
+
+Analog signalni raqamli signalga o’zgartirgich?
+====
+#ARO’
+====
+RAO’
+====
+RO’A
+====
+AO’R
+
++++++
+
+Qanday qurilma yordamida birlamchi signal xabarga aylantiradi
+====
+#Mikrofon
+====
+Modulyator
+====
+Detektor
+====
+Dekoder
+
++++++
+
+Uzatish tizimlarning xalqaro standartlar 
+====
+#SDH
+====
+SDD
+====
+SDS
+====
+HDS
+
++++++
+
+Raqamli  signalni analog  signalga o’zgartirgich kimning teoremasiga asoslanadi?
+====
+#Kotelnikov
+====
+Broydo
+====
+Shaxgildyan
+====
+Zyuko
+
++++++
+
+Zamonaviy manpulyatsyia qaysi variantda to’g’ri berilgan?
+====
+#PSK, MSK, QPSK, SQPSK, QPSK  
+====
+FM, FMn, IsUs, AMn, IKM, KMI  	
+====
+ChM, FMn, IsUs, AMn, IKM
+====
+NFM, , FMn, IsUs, AMn, IKM
+
++++++
+
+Chiziqli element qaysi variantda to’g’ri berilgan?:
+====
+#Qarshilik
+====
+Transistor
+====
+Diod
+====
+Varrikap
+
++++++
+
+Nochiziqli element qaysi variantda to’g’ri berilgan?:
+====
+#Varrikap
+====
+Sig’im
+====
+Induktivlik
+====
+Qarshilik
+
++++++
+– Diskret xabar tarkibidagi axborot hajmini o‘lchash birligi?
+====
+# bit ;
+====
+Bod;
+====
+Bit/s;
+====
+Kbayt;
+
++++++
+
+Aloqa kanallarining DMU uchun yaroqliligi birinchi navbatda uning qaysu chastota xarakteristikalari bilan baholanadi?
+====
+# chastota xarakteristikasi, amplituda – chastota xarakteristikasi (AChX) va faza – chastota xarakteristikalari (FChX) bilan baxolanadi.;
+====
+AChX bilan baxolanadi.;
+====
+FChX bilan baxolanadi.;
+====
+chastota xarakteristikasi bilan baxolanadi.;
+
++++++
+
+– Amplituda  chastota xarakteristikasi (AChX)?
+====
+# kanaldagi qoldiq so‘nishni chastotaga bog‘liqligini ifodalaydi;
+====
+doimiy kanalning fazasini chastotaga bog‘liqligini va kanaldagi qoldiq so‘nishni chastotaga bog‘liqligini ifodalaydi;
+====
+doimiy kanalning fazasini chastotaga bog‘liqligini ifodalaydi;
+====
+Aloqa kanallari uchun yaroqliligi;
+
++++++
+
+– Faza chastota xarakteristikalari (FChX)?
+====
+# doimiy kanalning fazasini chastotaga bog‘liqligini ifodalaydi ;
+====
+kanaldagi qoldiq so‘nishni chastotaga bog‘liqligini ifodalaydi;
+====
+Aloqa kanallari uchun yaroqliligi;
+====
+doimiy kanalning fazasini astotaga bog‘liqligini va kanaldagi qoldiq so‘nishni chastotaga bog‘liqligini ifodalaydi;
+
++++++
+
+– Signallarning buzilish sabablari nimalardan iborat?
+====
+# xarakteristikalarning nochiziqligi, fazaning titrashi, akslanishi, tashuvchi chastotalarning surilishi va to‘sqinlarning mavjudligidan ;
+====
+tashuvchi chastotalarning surilishi;
+====
+fazaning titrashi, akslanishi;
+====
+xarakteristikalarning nochiziqligi;
+
++++++
+
+– Aloxida xatoliklar o‘rtasida korrelyatsion bog‘liqlik mavjud yoki mavjud emasligiga qarab diskret kanalni nima deb ataladi?
+====
+# xotirasiz kanal va xotirali kanal;
+====
+Diskret kanal;
+====
+xotirasiz kanal;
+====
+xotirali kanal;
+
++++++
+
+– Diskret kanal deganda nima tushinasiz?
+====
+# Diskret signalni uzatishni ta’minlovchi  texnik qurilmalar majmuasi tushiniladi ;
+====
+Raqamli kanallarda uzatgich chiqishida va qabul qilgich kirishidagi struktura;
+====
+Axborotni aynan diskret signallar orqali ifodalanish;
+====
+Uzluksiz aloqa kanali;
+
++++++
+
+– Diskret kanal axborot uzatish tezligi o‘lchov birligi?
+====
+# Bit/s;
+====
+Bod;
+====
+Bayt;
+====
+Bit;
+
++++++
+
+– Signallarning qancha turi mavjud?
+====
+# 4;
+====
+2;
+====
+3;
+====
+1;
+
++++++
+
+– Xabarni o‘zgarishini ifodalovchi ma’lumot signal parametri ma’lumot signalning…….deb ataladi. Nuqtaning o‘rnini to‘ldiring?
+====
+# taqdim etuvchi(axborot) parametri;
+====
+Qiymatning ko‘pligi ikkiga teng;
+====
+Aniqlovchi moment;
+====
+Aniqlovchi vaqt intervali;
+
++++++
+
+– Diskret kanal nimalardan tashkil topgan?
+====
+# aloqa kanali va signal xosil qiluvchi qurilmalardan;
+====
+aloqa kanali;
+====
+signal xosil qiluvchi qurilmalardan;
+====
+raqamli kanaldan;
+
++++++
+
+– Diskret ma’lumotlarni uzatish tizimini asosiy nechta tarkibiy  qismlarga ajratish mumkin?
+====
+# 3;
+====
+2;
+====
+5;
+====
+4;
+
++++++
+
+Detsimetrli diapazonga qaysi to‘lqin uzunliklari kiradi?
+====
+# 1... 0,1 m
+====
+10... 1 m
+====
+10... 1 sm
+====
+10... 1 mm
+
++++++
+
+– Diskret kanallar sifati ma’lumotlarni kanallar bo‘yicha uzatish sifati qanday baxolanadi: 
+====
+# barcha javoblar to‘g‘ri;
+====
+signallarning ikkilamchi statistik tavsilotlari orqali baxolash usuli;
+====
+shovqinlar ko‘rsatkichlari orqali baxolash usuli;
+====
+signallar ko‘rsatkichi orqali baxolash usuli;
+
++++++
+
+– Xabarlarni qabul qiluvchi diskret xabar uzatish tizimiga qanday talablar qo‘yiladi?
+====
+# Uzatish aniqliligi, uzatish tezligi, vaqti, ishonchlilik.;
+====
+Uzatish aniqliligi;;
+====
+Uzatish tezligi, vaqti;;
+====
+Ishonchlilik;
+
++++++
+
+– Axborot nazariyasi nuqtai nazaridan axborotni kodlash  bu…?
+====
+# axborot manbaidagi  alfavitni ma’lum bir tartibda shartli simvollar bilan almashtirib chiqish tushuniladi;
+====
+berilgan birlamchi ma’lumotni kodlashtirish maqsadida ishlatiladigan shartli simvollar;
+====
+Kod alfavitining hajmi kodlashtiriladigan birlamchi ma’lumot;
+====
+Kod alfavitini tashkil etadigan har xil kod simvollari;
+
++++++
+
+Diskret xabar tarkibidagi axborot hajmini o‘lchash birligi?
+====
+# bit ;
+====
+Bod;
+====
+Bit/s;
+====
+Kbayt;
+
++++++
+
+Aloqa kanalining  uzatish qobiliyati deganda nimani to‘shinasiz?
+====
+# Uning eng maksimal ma’lumot uzatish tezligini ta’minlashi tushuniladi ;
+====
+Berilgan birlamchi ma’lumotni kodlashtirish maqsadida ishlatiladigan shartli simvollar;
+====
+Kod alfavitini tashkil etadigan har xil kod simvollari;
+====
+Kod alfavitining hajmi kodlashtiriladigan birlamchi ma’lumot;
+
++++++
+
+Axborot texnologiyalar multimedia texnologiyalarining yaratilishi telekommunikatsiya tizimlariga integratsiyalashuvning nechta bosqichini boshlab berdi?
+====
+#3 ;
+====
+4;
+====
+2;
+====
+1;
+
++++++
+
+Uzatilgan axborotni to‘g‘ri qabul qilishning necha xil usuli mavjud?
+====
+#2 ;
+====
+3;
+====
+1;
+====
+4;
+
++++++
+
+Uzatish, qabul qilish, saqlash va qayta o‘zgartirish mumkin bo‘lgan ma’lumotlar to‘plami qanday nomlanadi?
+====
+# axborot  ;
+====
+entropiya;
+====
+sinxronizatsiya;
+====
+barcha javob to‘g‘ri;
+
++++++
+
+Axborotdagi belgilarning paydo bo‘lish ehtimolligi bilan ularning kodli kombinatsiyasi o‘rtasidagi moslikni qaysi olim yaratgan?
+====
+# Klod  Shennon      ;
+====
+Abraxam Lempel;
+====
+Xartli;
+====
+Rid Solomon;
+
++++++
+
+– Ma’lumotlar uzatish tarmoqlarida axborotning asosiy sifat ko‘rsatkichlariga nimalar kiradi?
+====
+# tezlik, aniqlilik, ishonchlilik, xavfsizlik    ;
+====
+tezlik, aniqlilik, xavfsizlik;
+====
+tezlik, aniqlilik, ishonchlilik;
+====
+aniqlilik, ishonchlilik, xavfsizlik   ;
+
++++++
+
+– Ma’lumotlar uzatish tarmoqlarida axborotning aniqliligini qanday ko‘rsatkich ko‘rsatadi?
+====
+# Xatolik koeffitsienti;
+====
+tayyorlilik  koeffitsienti;
+====
+foydali ish koeffitsienti         ;
+====
+ishochlilik koeffitsienti       ;
+
++++++
+
+– Ma’lumotlar uzatish tarmoqlarida  ishochlilikni  qanday ko‘rsatkich ko‘rsatadi?
+====
+# tayyorlilik  koeffitsienti ;
+====
+Xatolik koeffitsienti;
+====
+foydali ish koeffitsienti;
+====
+ishochlilik koeffitsienti;
+
++++++
+
+– Ma’lumotlar uzatish tarmoqlarida xatolik koeffitsienti  qiymati nechidan oshib ketmasligi kerak?
+====
+# 10-6  ;
+====
+10-5;
+====
+10-4;
+====
+10-7;
+
++++++
+E1 birlamchi raqamli oqim nechta asosiy raqamli kanaldan tashkil topgan?
+======
+24
+======
+# 32
+======
+15
+======
+64
++++++
+Simsiz aloqa tizimlari ma’lumotlarni uzatish tizimlaridan qaysi biriga kiradi.
+====
+#tor polosali va keng polosali er usti radioaloqa tizimlari.
+====
+ochiq tarqatiladigan optik aloqa tizimlari
+====
+optik tolali aloqa tizimlari 
+====
+elektr kabellar bo‘yicha aloqa tizimlari
+
++++++
+
+Simsiz tizimlarning eng muhim afzalligi.........................hisoblanadi.
+====
+#qurishning kam vaqti 
+====
+transheyalarni qazishning kam vaqti
+====
+kabellarni yotqizilishining kam vaqti
+====
+kabellarni ichki o‘tkazilishi kam vaqti
+
++++++
+
+Tor polosali radioaloqa tizimlarida qanday signal tashuvchilari ishlatiladi?
+=====
+#bir chastotali garmonik tebranishlar
+====
+keng polosali psevdo-tasodifiy signallar 
+====
+ko‘p chastotali garmonik tebranishlar
+====
+tor polosali psevdo-tasodifiy signallar
+
++++++
+
+2-100 GGs diapazonlarda ishlaydigan er usti tizimlarining nomlaridan biri .................. hisoblanadi
+====
+# mikroto‘lqinli aloqa
+====
+o‘rta to‘lqinli aloqa
+====
+uzun to‘lqinli aloqa
+====
+eng uzun to‘lqinli aloqa
+
++++++
+
+Santimetrli diapazonga qaysi to‘lqin uzunliklari kiradi?
+====
+# 10... 1 sm
+====
+10... 1 m
+====
+1... 0,1 m
+====
+10...1 mm
+
++++++
+
+Radioaloqada uzatish qismining eng oddiy sxemasi ketma-ketligini ko‘rsating?
+====
+#ma’lumotlar manbai, xabarlarni o‘zgartirgich (modulyator), radiouzatkich, antenna
+====
+ma’lumotlar manbai, qo‘zg‘atkich (signallarni hosil qiluvchi), radiouzatkich, antenna
+====
+qo‘zg‘atkich (signallarni hosil qiluvchi), xabarlarni o‘zgartirgich (modulyator), radiouzatkich, antenna uzun to‘lqinli aloqa
+====
+ma’lumotlar manbai, signallarni ko‘paytirgich (sintezator), radiouzatkich, antenna
+
++++++
+
+Keng polosali radioaloqa tizimlarida qanday signal tashuvchilari ishlatiladi?
+====
+# keng polosali psevdo-tasodifiy signallar
+====
+bir chastotali garmonik tebranishlar
+====
+ko‘p chastotali garmonik tebranishlar
+====
+tor polosali psevdo-tasodifiy signallar
+
++++++
+
+Radioaloqada qabul qismining eng oddiy sxemasi ketma-ketligini ko‘rsating?
+====
+#antenna, radioqabul qilish qurilmasi, detektor, dinamik
+====
+antenna, radioqabul qilish qurilmasi, modulyator, dinamik
+====
+antenna, radioqabul qilish qurilmasi, kuchaytirgich, dinamik
+====
+antenna, radioqabul qilish qurilmasi, geterodin, dinamik
+
++++++
+
+Bitta manbadan xabarlarni oluvchiga uzatilishini ta’minlaydigan texnik vositalar majmui ..........................deyiladi.
+====
+# radioaloqa kanali
+====
+radioaloqa chastotasi
+====
+radioaloqa signali
+====
+radioaloqa liniyasi
+
++++++
+
+Radioliniyalar  zichlashtirilgan  radioaloqa  tizimi .....................deyiladi.
+====
+# ko‘p kanalli radioaloqa
+====
+bir kanalli radioaloqa
+====
+ko‘p signalli radioaloqa
+====
+radioaloqa liniyasi
+
++++++
+
+Ikki tomonlama radioaloqa qanday variantlar bo‘yicha tashkil etilishi mumkin
+====
+# simpleks, dupleks, yarim dupleks radioaloqa
+====
+simpleks va dupeks radioaloqa
+====
+simpleks va ikki tomonlama  simpleks radioaloqa
+====
+simpleks va yarim  dupleks radioaloqa
+
++++++
+
+Simpleks radioaloqada ....................................
+====
+#har ikkala uzatkichlar o‘sha bitta chastotada ishlaydi,  ya’ni qabullagichlar ham o‘sha bir chastotaga sozlanadi
+====
+uzatkichlar turli chastotalarda ishlaydi, mos ravishda qabullagichlar ham turli chastotalarga sozlanadi 
+====
+radioaloqa qabullash va uzatish chastotalaridan foydalanish orqali, lekin bir vaqtda emas, balki   navbatma-navbat amalga oshiriladi
+====
+signal bitta chastotada qabul qilinadi, boshqa chastotada uzatiladi
+
++++++
+
+Dupleks radioaloqada ....................................
+====
+#uzatkichlar turli chastotalarda ishlaydi, mos ravishda qabullagichlar ham turli chastotalarga sozlanadi
+====
+har ikkala uzatkichlar o‘sha bitta chastotada ishlaydi,  ya’ni qabullagichlar ham o‘sha bir chastotaga sozlanadi
+====
+radioaloqa qabullash va uzatish chastotalaridan foydalanish orqali, lekin bir vaqtda emas, balki   navbatma-navbat amalga oshiriladi.
+====
+signal bitta chastotada qabul qilinadi, boshqa chastotada uzatiladi
+
++++++
+
+Yarim dupleks radioaloqada ....................................
+====
+#radioaloqa qabullash va uzatish chastotalaridan foydalanish orqali, lekin bir vaqtda emas, balki   navbatma-navbat amalga oshiriladi
+====
+har ikkala uzatkichlar o‘sha bitta chastotada ishlaydi,  ya’ni qabullagichlar ham o‘sha bir chastotaga sozlanadi.
+====
+uzatkichlar turli chastotalarda ishlaydi, mos ravishda qabullagichlar ham turli chastotalarga sozlanadi.
+====
+signal bitta chastotada qabul qilinadi, o‘sha chastotada uzatiladi.
+
++++++
+
+Radiosignalni qabul qiladigan va uni efirga uzatadigan qurilma ............................. hisoblanadi.
+====
+#retranslyator
+====
+qabul qilgich
+====
+uzatkich
+====
+kuchaytirgich
+
++++++
+
+Bitta punktdan signallar boshqa punktda qabul qilinadi, kuchaytiriladi va keyin uchinchi punktga uzatiladi, u erda yana kuchaytiriladi va to‘rtinchi punktga uzatiladi va h.k.. Radioliniyaning bunday qurilishi............. deyiladi.
+====
+#radioreleli aloqa liniyasi
+====
+kabelli aloqa liniyasi
+====
+simli aloqa liniyasi
+====
+ochiq optik uzatish liniyasi
+
++++++
+
+Radiouzatish qurilmasi ............  uchun xizmat qiladi.
+====
+#tebranishlarni generatsiyalash, kuchaytirish va modulyasiyalash
+====
+tebranishlarni generatsiyalash, kuchaytirish va demodulyasiyalash
+====
+tebranishlarni ajratish, kuchaytirish va detektorlash
+====
+tebranishlarni o‘zgartirish, kuchaytirish va to‘g‘rilash.
+
++++++
+
+Radiosigna¬l deb ...........  aytiladi
+====
+#fazoga nurlantiriladigan elektromagnit signal
+====
+fazoga nurlantiriladigan  impulsli signal
+====
+fazoga nurlantiriladigan  chiziqli signal
+====
+fazoga nurlantiriladigan nochiziqli signal
+
++++++
+
+Miriametrli (o‘ta uzun to‘lqinlar) diapazonga qaysi to‘lqin uzunliklari kiradi
+====
+#100... 10 km
+====
+10... 1 km
+====
+1000... 100 m
+====
+100...10 m
+
++++++
+
+Miriametrli (o‘ta uzun to‘lqinlar) diapazonga qaysi chastotalar kiradi?
+====
+# 3... 30 kGs
+====
+30... 300 kGs
+====
+0,3... 3 MGs
+====
+3... 30 MGs
+
++++++
+
+Kilometrli (uzun to‘lqinlar) diapazonga qaysi chastotalar kiradi?
+====
+# 30... 300 kGs
+====
+3... 30 kGs
+====
+0,3... 3 MGs
+====
+3... 30 MGs
+
++++++
+
+Gektometrli (o‘rta to‘lqinlar) diapazonga qaysi qaysi chastotalar kiradi?
+====
+# 0,3... 3 MGs
+====
+30... 300 kGs
+====
+3... 30 kGs
+====
+3... 30 MGs
+
++++++
+
+Dekametrli ( qisqa to‘lqinlar) diapazonga qaysi qaysi chastotalar kiradi?
+====
+# 3... 30 MGs
+====
+30... 300 kGs
+====
+0,3... 3 MGs
+====
+3... 30 kGs
+
++++++
+
+Metrli (ultraqisqa to‘lqinlar) diapazonga qaysi qaysi chastotalar kiradi?
+====
+# 30... 300 MGs
+====
+30... 300 GGs
+====
+0,3... 3 GGs
+====
+3... 30 GGs
+
++++++
+
+Detsimetrli diapazonga qaysi qaysi chastotalar kiradi?
+====
+# 0,3... 3 GGs
+====
+30... 300 MGs
+====
+30... 300 GGs
+====
+3... 30 GGs
+
++++++
+
+Santimetrli diapazonga qaysi qaysi chastotalar kiradi?
+====
+# 3... 30 GGs
+====
+30... 300 GGs
+====
+30... 300 MGs
+====
+0,3... 3 GGs
+
++++++
+
+Millimetrli diapazonga qaysi qaysi chastotalar kiradi?
+====
+# 3... 30 GGs
+====
+30... 300 GGs
+====
+30... 300 MGs
+====
+0,3... 3 GGs
+
++++++
+ Qaysi oraliqdagi analog signallarni raqamli signalga o’girish qabul qilingan?
+====
+#0.3 – 3.4Khz
+====
+0 – 4Khz
+====
+0.1 – 3Khz
+====
+2 Khz
+
+
++++++
+
+
+– Katelnikov teoramasi?
+====
+# Fk = 2fmax
+====
+Fk = fmax	
+====
+Fk = 1/fmax
+====
+Fk = 1/8000
+– Simpleks ulanish – bu
+====
+# Ma’lumotni ma’lum bir vaqtda faqat bir tomonga uzatish
+====
+Ma’lumotni  ma’lum bir vaqtda bir tomonga boshqa bir vaqtda ikkinchi tomonga uzatish
+====
+Bir vaqtda ikki tomonlama ma’lumot almashinish
+====
+Hech qamday ma’lumotni uzatish va qabul qilish imkonsizligi
+
+
++++++
+
+
+– Dupleks bog’lanishni ko’rsating.
+====
+# Mobil aloqa
+====
+Televidiniya
+====
+Ratsiya
+====
+Radio
+
+
++++++
+
+
+– Bitta aloqa liniyasida nechta aloqa kanallari hosil qilish mumkin?
+====
+# Bir nechta
+====
+10 ta
+====
+100 ta
+====
+22 ta
+
+
++++++
+
+
+– Ma’lumotlar uzatishning fizik muhitiga qarab, aloqa liniyalari necha turga bo’linadi?
+====
+#3
+====
+2	
+====
+4
+====
+5
+
+
+
